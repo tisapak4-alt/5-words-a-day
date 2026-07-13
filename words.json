@@ -1,0 +1,1202 @@
+[
+  { "word": "time", "ts": "/taɪm/", "pos": "noun", "ru": "время", "def": "a period during which something happens or continues", "level": "A1", "ex": [
+    { "en": "What time is it?", "ru": "Который час?" },
+    { "en": "I don't have much time.", "ru": "У меня немного времени." }
+  ]},
+  { "word": "day", "ts": "/deɪ/", "pos": "noun", "ru": "день", "def": "a period of 24 hours", "level": "A1", "ex": [
+    { "en": "Have a nice day!", "ru": "Хорошего дня!" },
+    { "en": "We spent the whole day at the beach.", "ru": "Мы провели весь день на пляже." }
+  ]},
+  { "word": "year", "ts": "/jɪr/", "pos": "noun", "ru": "год", "def": "a period of 365 days", "level": "A1", "ex": [
+    { "en": "This year has been very busy.", "ru": "Этот год был очень насыщенным." },
+    { "en": "She visits her parents once a year.", "ru": "Она навещает родителей раз в год." }
+  ]},
+  { "word": "people", "ts": "/ˈpiːpl/", "pos": "noun", "ru": "люди", "def": "men, women, and children in general", "level": "A1", "ex": [
+    { "en": "Many people were waiting outside.", "ru": "Много людей ждало снаружи." },
+    { "en": "People in this city are very friendly.", "ru": "Люди в этом городе очень дружелюбны." }
+  ]},
+  { "word": "house", "ts": "/haʊs/", "pos": "noun", "ru": "дом", "def": "a building where people live", "level": "A1", "ex": [
+    { "en": "They bought a new house.", "ru": "Они купили новый дом." },
+    { "en": "Our house is near the park.", "ru": "Наш дом рядом с парком." }
+  ]},
+  { "word": "water", "ts": "/ˈwɔːtər/", "pos": "noun", "ru": "вода", "def": "a clear liquid needed for life", "level": "A1", "ex": [
+    { "en": "Can I have a glass of water?", "ru": "Можно мне стакан воды?" },
+    { "en": "Drink more water every day.", "ru": "Пейте больше воды каждый день." }
+  ]},
+  { "word": "food", "ts": "/fuːd/", "pos": "noun", "ru": "еда", "def": "things that people and animals eat", "level": "A1", "ex": [
+    { "en": "The food here is delicious.", "ru": "Еда здесь вкусная." },
+    { "en": "We need to buy some food.", "ru": "Нам нужно купить немного еды." }
+  ]},
+  { "word": "family", "ts": "/ˈfæməli/", "pos": "noun", "ru": "семья", "def": "a group of parents and children", "level": "A1", "ex": [
+    { "en": "I love spending time with my family.", "ru": "Я люблю проводить время с семьёй." },
+    { "en": "Her family lives in another city.", "ru": "Её семья живёт в другом городе." }
+  ]},
+  { "word": "friend", "ts": "/frend/", "pos": "noun", "ru": "друг", "def": "a person you like and trust", "level": "A1", "ex": [
+    { "en": "He is my best friend.", "ru": "Он мой лучший друг." },
+    { "en": "I made new friends at school.", "ru": "Я завёл новых друзей в школе." }
+  ]},
+  { "word": "name", "ts": "/neɪm/", "pos": "noun", "ru": "имя", "def": "what a person or thing is called", "level": "A1", "ex": [
+    { "en": "What's your name?", "ru": "Как тебя зовут?" },
+    { "en": "I forgot his name.", "ru": "Я забыл его имя." }
+  ]},
+  { "word": "city", "ts": "/ˈsɪti/", "pos": "noun", "ru": "город", "def": "a large town", "level": "A1", "ex": [
+    { "en": "London is a big city.", "ru": "Лондон — большой город." },
+    { "en": "I live in a small city.", "ru": "Я живу в маленьком городе." }
+  ]},
+  { "word": "country", "ts": "/ˈkʌntri/", "pos": "noun", "ru": "страна", "def": "a nation with its own government", "level": "A1", "ex": [
+    { "en": "Which country are you from?", "ru": "Из какой ты страны?" },
+    { "en": "This country has beautiful mountains.", "ru": "В этой стране красивые горы." }
+  ]},
+  { "word": "book", "ts": "/bʊk/", "pos": "noun", "ru": "книга", "def": "a set of printed pages bound together to read", "level": "A1", "ex": [
+    { "en": "I'm reading an interesting book.", "ru": "Я читаю интересную книгу." },
+    { "en": "She bought two books yesterday.", "ru": "Она купила две книги вчера." }
+  ]},
+  { "word": "money", "ts": "/ˈmʌni/", "pos": "noun", "ru": "деньги", "def": "coins and banknotes used to pay for things", "level": "A1", "ex": [
+    { "en": "I need to save more money.", "ru": "Мне нужно откладывать больше денег." },
+    { "en": "He doesn't have much money.", "ru": "У него немного денег." }
+  ]},
+  { "word": "phone", "ts": "/foʊn/", "pos": "noun", "ru": "телефон", "def": "a device used to talk to people over distance", "level": "A1", "ex": [
+    { "en": "My phone battery is low.", "ru": "У моего телефона садится батарея." },
+    { "en": "Can you call me on my phone?", "ru": "Можешь позвонить мне на телефон?" }
+  ]},
+  { "word": "school", "ts": "/skuːl/", "pos": "noun", "ru": "школа", "def": "a place where children go to learn", "level": "A1", "ex": [
+    { "en": "My son goes to school by bus.", "ru": "Мой сын ездит в школу на автобусе." },
+    { "en": "We studied together at school.", "ru": "Мы учились вместе в школе." }
+  ]},
+  { "word": "teacher", "ts": "/ˈtiːtʃər/", "pos": "noun", "ru": "учитель", "def": "a person who teaches students", "level": "A1", "ex": [
+    { "en": "Our teacher explains everything clearly.", "ru": "Наш учитель объясняет всё понятно." },
+    { "en": "She wants to become a teacher.", "ru": "Она хочет стать учителем." }
+  ]},
+  { "word": "student", "ts": "/ˈstuːdnt/", "pos": "noun", "ru": "студент/ученик", "def": "a person who is studying", "level": "A1", "ex": [
+    { "en": "He is a good student.", "ru": "Он хороший ученик." },
+    { "en": "The students are doing an exam today.", "ru": "Студенты сегодня сдают экзамен." }
+  ]},
+  { "word": "doctor", "ts": "/ˈdɒktər/", "pos": "noun", "ru": "врач", "def": "a person trained to treat sick people", "level": "A1", "ex": [
+    { "en": "I need to see a doctor.", "ru": "Мне нужно сходить к врачу." },
+    { "en": "The doctor gave me some medicine.", "ru": "Врач дал мне лекарство." }
+  ]},
+  { "word": "car", "ts": "/kɑːr/", "pos": "noun", "ru": "машина", "def": "a vehicle with four wheels used for travel", "level": "A1", "ex": [
+    { "en": "He drives a red car.", "ru": "Он водит красную машину." },
+    { "en": "We went there by car.", "ru": "Мы поехали туда на машине." }
+  ]},
+  { "word": "morning", "ts": "/ˈmɔːrnɪŋ/", "pos": "noun", "ru": "утро", "def": "the early part of the day", "level": "A1", "ex": [
+    { "en": "I drink coffee every morning.", "ru": "Я пью кофе каждое утро." },
+    { "en": "Good morning, everyone!", "ru": "Доброе утро всем!" }
+  ]},
+  { "word": "evening", "ts": "/ˈiːvnɪŋ/", "pos": "noun", "ru": "вечер", "def": "the part of the day before night", "level": "A1", "ex": [
+    { "en": "We usually eat dinner in the evening.", "ru": "Мы обычно ужинаем вечером." },
+    { "en": "See you this evening!", "ru": "Увидимся этим вечером!" }
+  ]},
+  { "word": "night", "ts": "/naɪt/", "pos": "noun", "ru": "ночь", "def": "the time when it is dark outside", "level": "A1", "ex": [
+    { "en": "I couldn't sleep last night.", "ru": "Я не мог уснуть прошлой ночью." },
+    { "en": "It gets very quiet at night.", "ru": "Ночью становится очень тихо." }
+  ]},
+  { "word": "week", "ts": "/wiːk/", "pos": "noun", "ru": "неделя", "def": "a period of seven days", "level": "A1", "ex": [
+    { "en": "I'll see you next week.", "ru": "Увидимся на следующей неделе." },
+    { "en": "She works five days a week.", "ru": "Она работает пять дней в неделю." }
+  ]},
+  { "word": "month", "ts": "/mʌnθ/", "pos": "noun", "ru": "месяц", "def": "one of the twelve parts of a year", "level": "A1", "ex": [
+    { "en": "This is my first month here.", "ru": "Это мой первый месяц здесь." },
+    { "en": "We travel every month.", "ru": "Мы путешествуем каждый месяц." }
+  ]},
+  { "word": "color", "ts": "/ˈkʌlər/", "pos": "noun", "ru": "цвет", "def": "the appearance things have, like red or blue", "level": "A1", "ex": [
+    { "en": "What color do you like?", "ru": "Какой цвет тебе нравится?" },
+    { "en": "The dress comes in three colors.", "ru": "Платье бывает трёх цветов." }
+  ]},
+  { "word": "weather", "ts": "/ˈweðər/", "pos": "noun", "ru": "погода", "def": "the condition of the sky and air, such as rain or sun", "level": "A1", "ex": [
+    { "en": "The weather is nice today.", "ru": "Сегодня хорошая погода." },
+    { "en": "I don't like cold weather.", "ru": "Мне не нравится холодная погода." }
+  ]},
+  { "word": "street", "ts": "/striːt/", "pos": "noun", "ru": "улица", "def": "a road in a town with houses along it", "level": "A1", "ex": [
+    { "en": "The shop is on this street.", "ru": "Магазин на этой улице." },
+    { "en": "Be careful crossing the street.", "ru": "Будь осторожен, переходя улицу." }
+  ]},
+  { "word": "shop", "ts": "/ʃɒp/", "pos": "noun", "ru": "магазин", "def": "a place where you buy things", "level": "A1", "ex": [
+    { "en": "I bought bread at the shop.", "ru": "Я купил хлеб в магазине." },
+    { "en": "The shop opens at nine.", "ru": "Магазин открывается в девять." }
+  ]},
+  { "word": "job", "ts": "/dʒɒb/", "pos": "noun", "ru": "работа", "def": "work that you do to earn money", "level": "A1", "ex": [
+    { "en": "She found a new job.", "ru": "Она нашла новую работу." },
+    { "en": "He does a great job.", "ru": "Он отлично справляется с работой." }
+  ]},
+  { "word": "big", "ts": "/bɪɡ/", "pos": "adjective", "ru": "большой", "def": "large in size", "level": "A1", "ex": [
+    { "en": "They live in a big house.", "ru": "Они живут в большом доме." },
+    { "en": "That's a big problem.", "ru": "Это большая проблема." }
+  ]},
+  { "word": "small", "ts": "/smɔːl/", "pos": "adjective", "ru": "маленький", "def": "little in size", "level": "A1", "ex": [
+    { "en": "I have a small apartment.", "ru": "У меня маленькая квартира." },
+    { "en": "The dog is very small.", "ru": "Собака очень маленькая." }
+  ]},
+  { "word": "good", "ts": "/ɡʊd/", "pos": "adjective", "ru": "хороший", "def": "of high quality or pleasant", "level": "A1", "ex": [
+    { "en": "That's a good idea.", "ru": "Это хорошая идея." },
+    { "en": "He is good at football.", "ru": "Он хорош в футболе." }
+  ]},
+  { "word": "bad", "ts": "/bæd/", "pos": "adjective", "ru": "плохой", "def": "not good, of poor quality", "level": "A1", "ex": [
+    { "en": "The weather is bad today.", "ru": "Сегодня плохая погода." },
+    { "en": "I had a bad day.", "ru": "У меня был плохой день." }
+  ]},
+  { "word": "happy", "ts": "/ˈhæpi/", "pos": "adjective", "ru": "счастливый", "def": "feeling pleased or glad", "level": "A1", "ex": [
+    { "en": "I'm so happy to see you.", "ru": "Я так рад тебя видеть." },
+    { "en": "She looks happy today.", "ru": "Она выглядит счастливой сегодня." }
+  ]},
+  { "word": "hot", "ts": "/hɒt/", "pos": "adjective", "ru": "горячий, жаркий", "def": "having a high temperature", "level": "A1", "ex": [
+    { "en": "This soup is very hot.", "ru": "Этот суп очень горячий." },
+    { "en": "It's hot outside today.", "ru": "Сегодня жарко на улице." }
+  ]},
+  { "word": "cold", "ts": "/koʊld/", "pos": "adjective", "ru": "холодный", "def": "having a low temperature", "level": "A1", "ex": [
+    { "en": "The water is too cold.", "ru": "Вода слишком холодная." },
+    { "en": "Winters here are very cold.", "ru": "Зимы здесь очень холодные." }
+  ]},
+  { "word": "new", "ts": "/nuː/", "pos": "adjective", "ru": "новый", "def": "recently made or bought", "level": "A1", "ex": [
+    { "en": "I bought a new phone.", "ru": "Я купил новый телефон." },
+    { "en": "She started a new job.", "ru": "Она начала новую работу." }
+  ]},
+  { "word": "old", "ts": "/oʊld/", "pos": "adjective", "ru": "старый", "def": "having lived or existed for a long time", "level": "A1", "ex": [
+    { "en": "This is an old building.", "ru": "Это старое здание." },
+    { "en": "My grandfather is very old.", "ru": "Мой дедушка очень старый." }
+  ]},
+  { "word": "beautiful", "ts": "/ˈbjuːtɪfl/", "pos": "adjective", "ru": "красивый", "def": "very pleasant to look at", "level": "A1", "ex": [
+    { "en": "What a beautiful view!", "ru": "Какой красивый вид!" },
+    { "en": "She has a beautiful voice.", "ru": "У неё красивый голос." }
+  ]},
+  { "word": "eat", "ts": "/iːt/", "pos": "verb", "ru": "есть, кушать", "def": "to put food in your mouth and swallow it", "level": "A1", "ex": [
+    { "en": "Let's eat lunch together.", "ru": "Давай пообедаем вместе." },
+    { "en": "I don't eat meat.", "ru": "Я не ем мясо." }
+  ]},
+  { "word": "drink", "ts": "/drɪŋk/", "pos": "verb", "ru": "пить", "def": "to take liquid into your mouth and swallow it", "level": "A1", "ex": [
+    { "en": "I drink tea every morning.", "ru": "Я пью чай каждое утро." },
+    { "en": "Do you want something to drink?", "ru": "Хочешь что-нибудь выпить?" }
+  ]},
+  { "word": "sleep", "ts": "/sliːp/", "pos": "verb", "ru": "спать", "def": "to rest with your eyes closed and mind inactive", "level": "A1", "ex": [
+    { "en": "I need to sleep more.", "ru": "Мне нужно больше спать." },
+    { "en": "The baby is sleeping now.", "ru": "Малыш сейчас спит." }
+  ]},
+  { "word": "walk", "ts": "/wɔːk/", "pos": "verb", "ru": "ходить пешком", "def": "to move on foot at a normal speed", "level": "A1", "ex": [
+    { "en": "We walked to the station.", "ru": "Мы дошли до станции пешком." },
+    { "en": "I like to walk in the park.", "ru": "Мне нравится гулять в парке." }
+  ]},
+  { "word": "speak", "ts": "/spiːk/", "pos": "verb", "ru": "говорить", "def": "to say words with your voice", "level": "A1", "ex": [
+    { "en": "Can you speak English?", "ru": "Ты говоришь по-английски?" },
+    { "en": "She speaks three languages.", "ru": "Она говорит на трёх языках." }
+  ]},
+  { "word": "read", "ts": "/riːd/", "pos": "verb", "ru": "читать", "def": "to look at written words and understand them", "level": "A1", "ex": [
+    { "en": "I read a book every week.", "ru": "Я читаю книгу каждую неделю." },
+    { "en": "He likes to read before bed.", "ru": "Ему нравится читать перед сном." }
+  ]},
+  { "word": "write", "ts": "/raɪt/", "pos": "verb", "ru": "писать", "def": "to put words on paper using a pen or keyboard", "level": "A1", "ex": [
+    { "en": "I need to write an email.", "ru": "Мне нужно написать письмо." },
+    { "en": "She writes in her diary every day.", "ru": "Она пишет в дневнике каждый день." }
+  ]},
+  { "word": "buy", "ts": "/baɪ/", "pos": "verb", "ru": "покупать", "def": "to get something by paying money for it", "level": "A1", "ex": [
+    { "en": "I want to buy a new bag.", "ru": "Я хочу купить новую сумку." },
+    { "en": "We bought some fruit at the market.", "ru": "Мы купили фрукты на рынке." }
+  ]},
+  { "word": "work", "ts": "/wɜːrk/", "pos": "verb", "ru": "работать", "def": "to do a job or task", "level": "A1", "ex": [
+    { "en": "I work in an office.", "ru": "Я работаю в офисе." },
+    { "en": "She works very hard.", "ru": "Она очень усердно работает." }
+  ]},
+  { "word": "live", "ts": "/lɪv/", "pos": "verb", "ru": "жить", "def": "to have your home somewhere", "level": "A1", "ex": [
+    { "en": "They live in a small town.", "ru": "Они живут в маленьком городке." },
+    { "en": "I have lived here for five years.", "ru": "Я живу здесь пять лет." }
+  ]},
+  { "word": "journey", "ts": "/ˈdʒɜːrni/", "pos": "noun", "ru": "путешествие, поездка", "def": "a trip from one place to another", "level": "A2", "ex": [
+    { "en": "The journey took six hours.", "ru": "Поездка заняла шесть часов." },
+    { "en": "We had a long journey home.", "ru": "У нас был долгий путь домой." }
+  ]},
+  { "word": "experience", "ts": "/ɪkˈspɪəriəns/", "pos": "noun", "ru": "опыт", "def": "knowledge or skill gained from doing something", "level": "A2", "ex": [
+    { "en": "She has a lot of experience in teaching.", "ru": "У неё большой опыт в преподавании." },
+    { "en": "It was an unforgettable experience.", "ru": "Это был незабываемый опыт." }
+  ]},
+  { "word": "opportunity", "ts": "/ˌɒpərˈtuːnəti/", "pos": "noun", "ru": "возможность", "def": "a chance to do something", "level": "A2", "ex": [
+    { "en": "This job is a great opportunity.", "ru": "Эта работа — отличная возможность." },
+    { "en": "I didn't have the opportunity to visit them.", "ru": "У меня не было возможности навестить их." }
+  ]},
+  { "word": "decision", "ts": "/dɪˈsɪʒn/", "pos": "noun", "ru": "решение", "def": "a choice you make after thinking", "level": "A2", "ex": [
+    { "en": "It was a difficult decision to make.", "ru": "Это было трудное решение." },
+    { "en": "She made the right decision.", "ru": "Она приняла правильное решение." }
+  ]},
+  { "word": "environment", "ts": "/ɪnˈvaɪrənmənt/", "pos": "noun", "ru": "окружающая среда", "def": "the natural world around us", "level": "A2", "ex": [
+    { "en": "We should protect the environment.", "ru": "Мы должны защищать окружающую среду." },
+    { "en": "Plastic waste harms the environment.", "ru": "Пластиковые отходы вредят окружающей среде." }
+  ]},
+  { "word": "neighbor", "ts": "/ˈneɪbər/", "pos": "noun", "ru": "сосед", "def": "a person who lives next to you", "level": "A2", "ex": [
+    { "en": "My neighbor is very friendly.", "ru": "Мой сосед очень дружелюбный." },
+    { "en": "We invited our neighbors for dinner.", "ru": "Мы пригласили соседей на ужин." }
+  ]},
+  { "word": "relationship", "ts": "/rɪˈleɪʃnʃɪp/", "pos": "noun", "ru": "отношения", "def": "the way two people are connected", "level": "A2", "ex": [
+    { "en": "They have a close relationship.", "ru": "У них близкие отношения." },
+    { "en": "Good communication is key in a relationship.", "ru": "Хорошее общение — ключ к отношениям." }
+  ]},
+  { "word": "habit", "ts": "/ˈhæbɪt/", "pos": "noun", "ru": "привычка", "def": "something you do often, almost without thinking", "level": "A2", "ex": [
+    { "en": "Smoking is a bad habit.", "ru": "Курение — плохая привычка." },
+    { "en": "I have a habit of waking up early.", "ru": "У меня привычка рано вставать." }
+  ]},
+  { "word": "hobby", "ts": "/ˈhɒbi/", "pos": "noun", "ru": "хобби", "def": "an activity you do for pleasure in free time", "level": "A2", "ex": [
+    { "en": "Her hobby is painting.", "ru": "Её хобби — рисование." },
+    { "en": "Do you have any hobbies?", "ru": "У тебя есть хобби?" }
+  ]},
+  { "word": "holiday", "ts": "/ˈhɒlədeɪ/", "pos": "noun", "ru": "отпуск, праздник", "def": "a period of rest from work or school", "level": "A2", "ex": [
+    { "en": "We're going on holiday next week.", "ru": "Мы едем в отпуск на следующей неделе." },
+    { "en": "Christmas is my favorite holiday.", "ru": "Рождество — мой любимый праздник." }
+  ]},
+  { "word": "traffic", "ts": "/ˈtræfɪk/", "pos": "noun", "ru": "дорожное движение, пробки", "def": "vehicles moving on a road", "level": "A2", "ex": [
+    { "en": "The traffic was terrible this morning.", "ru": "Сегодня утром были ужасные пробки." },
+    { "en": "We got stuck in traffic.", "ru": "Мы застряли в пробке." }
+  ]},
+  { "word": "airport", "ts": "/ˈeərpɔːrt/", "pos": "noun", "ru": "аэропорт", "def": "a place where planes take off and land", "level": "A2", "ex": [
+    { "en": "I'll pick you up at the airport.", "ru": "Я заберу тебя из аэропорта." },
+    { "en": "The airport was very crowded.", "ru": "В аэропорту было очень многолюдно." }
+  ]},
+  { "word": "luggage", "ts": "/ˈlʌɡɪdʒ/", "pos": "noun", "ru": "багаж", "def": "bags and cases for traveling", "level": "A2", "ex": [
+    { "en": "Please don't leave your luggage unattended.", "ru": "Пожалуйста, не оставляйте багаж без присмотра." },
+    { "en": "I lost my luggage at the airport.", "ru": "Я потерял багаж в аэропорту." }
+  ]},
+  { "word": "passport", "ts": "/ˈpæspɔːrt/", "pos": "noun", "ru": "паспорт", "def": "an official document for traveling abroad", "level": "A2", "ex": [
+    { "en": "Don't forget your passport.", "ru": "Не забудь паспорт." },
+    { "en": "I need to renew my passport.", "ru": "Мне нужно продлить паспорт." }
+  ]},
+  { "word": "schedule", "ts": "/ˈskedʒuːl/", "pos": "noun", "ru": "расписание", "def": "a plan of times for events", "level": "A2", "ex": [
+    { "en": "What's your schedule like today?", "ru": "Какое у тебя сегодня расписание?" },
+    { "en": "The meeting is on schedule.", "ru": "Встреча идёт по расписанию." }
+  ]},
+  { "word": "appointment", "ts": "/əˈpɔɪntmənt/", "pos": "noun", "ru": "назначенная встреча, запись", "def": "an arranged time to meet someone", "level": "A2", "ex": [
+    { "en": "I have a doctor's appointment tomorrow.", "ru": "У меня завтра запись к врачу." },
+    { "en": "Can I make an appointment for Friday?", "ru": "Могу я записаться на пятницу?" }
+  ]},
+  { "word": "interview", "ts": "/ˈɪntərvjuː/", "pos": "noun", "ru": "собеседование, интервью", "def": "a formal meeting to ask someone questions", "level": "A2", "ex": [
+    { "en": "I have a job interview tomorrow.", "ru": "У меня завтра собеседование." },
+    { "en": "The interview went really well.", "ru": "Собеседование прошло очень хорошо." }
+  ]},
+  { "word": "salary", "ts": "/ˈsæləri/", "pos": "noun", "ru": "зарплата", "def": "money paid regularly for work", "level": "A2", "ex": [
+    { "en": "She got a salary increase.", "ru": "Ей повысили зарплату." },
+    { "en": "The salary here is quite good.", "ru": "Здесь довольно хорошая зарплата." }
+  ]},
+  { "word": "customer", "ts": "/ˈkʌstəmər/", "pos": "noun", "ru": "клиент, покупатель", "def": "a person who buys goods or services", "level": "A2", "ex": [
+    { "en": "The customer asked for a refund.", "ru": "Клиент попросил возврат денег." },
+    { "en": "We always try to satisfy our customers.", "ru": "Мы всегда стараемся угодить нашим клиентам." }
+  ]},
+  { "word": "manager", "ts": "/ˈmænɪdʒər/", "pos": "noun", "ru": "менеджер, руководитель", "def": "a person who runs a business or team", "level": "A2", "ex": [
+    { "en": "I need to speak to the manager.", "ru": "Мне нужно поговорить с менеджером." },
+    { "en": "She was promoted to manager.", "ru": "Её повысили до менеджера." }
+  ]},
+  { "word": "meeting", "ts": "/ˈmiːtɪŋ/", "pos": "noun", "ru": "встреча, совещание", "def": "a gathering of people to discuss something", "level": "A2", "ex": [
+    { "en": "We have a meeting at 3 pm.", "ru": "У нас встреча в 3 часа дня." },
+    { "en": "The meeting lasted two hours.", "ru": "Совещание длилось два часа." }
+  ]},
+  { "word": "document", "ts": "/ˈdɒkjumənt/", "pos": "noun", "ru": "документ", "def": "a written or printed paper with information", "level": "A2", "ex": [
+    { "en": "Please sign this document.", "ru": "Пожалуйста, подпишите этот документ." },
+    { "en": "I saved the document on my computer.", "ru": "Я сохранил документ на компьютере." }
+  ]},
+  { "word": "receipt", "ts": "/rɪˈsiːt/", "pos": "noun", "ru": "чек, квитанция", "def": "a paper proving you paid for something", "level": "A2", "ex": [
+    { "en": "Keep your receipt in case you need a refund.", "ru": "Сохраните чек на случай возврата." },
+    { "en": "Can I have a receipt, please?", "ru": "Можно мне чек, пожалуйста?" }
+  ]},
+  { "word": "recipe", "ts": "/ˈresəpi/", "pos": "noun", "ru": "рецепт", "def": "instructions for cooking a dish", "level": "A2", "ex": [
+    { "en": "This is my grandmother's recipe.", "ru": "Это рецепт моей бабушки." },
+    { "en": "I found a new recipe for pasta.", "ru": "Я нашёл новый рецепт пасты." }
+  ]},
+  { "word": "ingredient", "ts": "/ɪnˈɡriːdiənt/", "pos": "noun", "ru": "ингредиент", "def": "one of the parts used to make food", "level": "A2", "ex": [
+    { "en": "Sugar is the main ingredient in this cake.", "ru": "Сахар — главный ингредиент этого торта." },
+    { "en": "We're missing one ingredient.", "ru": "У нас не хватает одного ингредиента." }
+  ]},
+  { "word": "exercise", "ts": "/ˈeksərsaɪz/", "pos": "noun", "ru": "упражнение, физическая активность", "def": "physical activity to stay healthy", "level": "A2", "ex": [
+    { "en": "Regular exercise is good for your health.", "ru": "Регулярные упражнения полезны для здоровья." },
+    { "en": "I do exercise every morning.", "ru": "Я делаю зарядку каждое утро." }
+  ]},
+  { "word": "diet", "ts": "/ˈdaɪət/", "pos": "noun", "ru": "диета, питание", "def": "the food a person usually eats", "level": "A2", "ex": [
+    { "en": "She's on a healthy diet.", "ru": "Она придерживается здорового питания." },
+    { "en": "A balanced diet keeps you fit.", "ru": "Сбалансированное питание поддерживает форму." }
+  ]},
+  { "word": "illness", "ts": "/ˈɪlnəs/", "pos": "noun", "ru": "болезнь", "def": "a disease or period of being sick", "level": "A2", "ex": [
+    { "en": "He recovered quickly from his illness.", "ru": "Он быстро оправился от болезни." },
+    { "en": "Stress can cause illness.", "ru": "Стресс может вызывать болезни." }
+  ]},
+  { "word": "medicine", "ts": "/ˈmedəsn/", "pos": "noun", "ru": "лекарство", "def": "a substance used to treat illness", "level": "A2", "ex": [
+    { "en": "Take this medicine twice a day.", "ru": "Принимайте это лекарство дважды в день." },
+    { "en": "The medicine helped me feel better.", "ru": "Лекарство помогло мне почувствовать себя лучше." }
+  ]},
+  { "word": "pharmacy", "ts": "/ˈfɑːrməsi/", "pos": "noun", "ru": "аптека", "def": "a shop that sells medicine", "level": "A2", "ex": [
+    { "en": "The pharmacy is next to the bank.", "ru": "Аптека рядом с банком." },
+    { "en": "I bought some vitamins at the pharmacy.", "ru": "Я купил витамины в аптеке." }
+  ]},
+  { "word": "comfortable", "ts": "/ˈkʌmftərbl/", "pos": "adjective", "ru": "удобный", "def": "giving a pleasant feeling of ease", "level": "A2", "ex": [
+    { "en": "This chair is very comfortable.", "ru": "Этот стул очень удобный." },
+    { "en": "I feel comfortable in this house.", "ru": "Я чувствую себя комфортно в этом доме." }
+  ]},
+  { "word": "dangerous", "ts": "/ˈdeɪndʒərəs/", "pos": "adjective", "ru": "опасный", "def": "likely to cause harm", "level": "A2", "ex": [
+    { "en": "It's dangerous to drive too fast.", "ru": "Опасно ездить слишком быстро." },
+    { "en": "That area is quite dangerous at night.", "ru": "Тот район довольно опасен ночью." }
+  ]},
+  { "word": "exhausted", "ts": "/ɪɡˈzɔːstɪd/", "pos": "adjective", "ru": "измождённый, очень уставший", "def": "extremely tired", "level": "A2", "ex": [
+    { "en": "I'm exhausted after work.", "ru": "Я вымотан после работы." },
+    { "en": "She felt exhausted after the trip.", "ru": "Она чувствовала себя измождённой после поездки." }
+  ]},
+  { "word": "nervous", "ts": "/ˈnɜːrvəs/", "pos": "adjective", "ru": "нервный, взволнованный", "def": "worried or afraid about something", "level": "A2", "ex": [
+    { "en": "I always get nervous before exams.", "ru": "Я всегда нервничаю перед экзаменами." },
+    { "en": "He seemed nervous during the interview.", "ru": "Он казался взволнованным на собеседовании." }
+  ]},
+  { "word": "confident", "ts": "/ˈkɒnfɪdənt/", "pos": "adjective", "ru": "уверенный", "def": "sure of your own abilities", "level": "A2", "ex": [
+    { "en": "She is confident about her abilities.", "ru": "Она уверена в своих способностях." },
+    { "en": "He spoke in a confident voice.", "ru": "Он говорил уверенным голосом." }
+  ]},
+  { "word": "crowded", "ts": "/ˈkraʊdɪd/", "pos": "adjective", "ru": "переполненный, многолюдный", "def": "full of people", "level": "A2", "ex": [
+    { "en": "The train was very crowded.", "ru": "Поезд был очень переполнен." },
+    { "en": "This beach gets crowded in summer.", "ru": "Этот пляж становится многолюдным летом." }
+  ]},
+  { "word": "convenient", "ts": "/kənˈviːniənt/", "pos": "adjective", "ru": "удобный, подходящий", "def": "easy or suitable for your needs", "level": "A2", "ex": [
+    { "en": "Is it convenient to meet tomorrow?", "ru": "Удобно встретиться завтра?" },
+    { "en": "The location is very convenient.", "ru": "Расположение очень удобное." }
+  ]},
+  { "word": "polluted", "ts": "/pəˈluːtɪd/", "pos": "adjective", "ru": "загрязнённый", "def": "made dirty by harmful substances", "level": "A2", "ex": [
+    { "en": "The river is heavily polluted.", "ru": "Река сильно загрязнена." },
+    { "en": "Air in big cities is often polluted.", "ru": "Воздух в больших городах часто загрязнён." }
+  ]},
+  { "word": "reliable", "ts": "/rɪˈlaɪəbl/", "pos": "adjective", "ru": "надёжный", "def": "able to be trusted", "level": "A2", "ex": [
+    { "en": "He is a reliable friend.", "ru": "Он надёжный друг." },
+    { "en": "This car is old but reliable.", "ru": "Эта машина старая, но надёжная." }
+  ]},
+  { "word": "generous", "ts": "/ˈdʒenərəs/", "pos": "adjective", "ru": "щедрый", "def": "willing to give money, help, or time", "level": "A2", "ex": [
+    { "en": "It was very generous of you to help.", "ru": "С твоей стороны было очень щедро помочь." },
+    { "en": "She is generous with her time.", "ru": "Она щедро делится своим временем." }
+  ]},
+  { "word": "arrive", "ts": "/əˈraɪv/", "pos": "verb", "ru": "прибывать", "def": "to reach a place", "level": "A2", "ex": [
+    { "en": "We arrived at the hotel late at night.", "ru": "Мы прибыли в отель поздно ночью." },
+    { "en": "The train arrives at 5 pm.", "ru": "Поезд прибывает в 5 вечера." }
+  ]},
+  { "word": "borrow", "ts": "/ˈbɒroʊ/", "pos": "verb", "ru": "брать взаймы, одалживать (у кого-то)", "def": "to take something to return later", "level": "A2", "ex": [
+    { "en": "Can I borrow your pen?", "ru": "Можно одолжить у тебя ручку?" },
+    { "en": "I borrowed some money from my brother.", "ru": "Я занял немного денег у брата." }
+  ]},
+  { "word": "lend", "ts": "/lend/", "pos": "verb", "ru": "одалживать (кому-то)", "def": "to give something to someone temporarily", "level": "A2", "ex": [
+    { "en": "Could you lend me some money?", "ru": "Не мог бы ты одолжить мне денег?" },
+    { "en": "He lent me his car for the weekend.", "ru": "Он одолжил мне свою машину на выходные." }
+  ]},
+  { "word": "complain", "ts": "/kəmˈpleɪn/", "pos": "verb", "ru": "жаловаться", "def": "to say you are unhappy about something", "level": "A2", "ex": [
+    { "en": "She complained about the noise.", "ru": "Она пожаловалась на шум." },
+    { "en": "He never complains about anything.", "ru": "Он никогда ни на что не жалуется." }
+  ]},
+  { "word": "suggest", "ts": "/səˈdʒest/", "pos": "verb", "ru": "предлагать", "def": "to offer an idea or plan", "level": "A2", "ex": [
+    { "en": "I suggest we leave early.", "ru": "Предлагаю выехать пораньше." },
+    { "en": "She suggested a new plan.", "ru": "Она предложила новый план." }
+  ]},
+  { "word": "improve", "ts": "/ɪmˈpruːv/", "pos": "verb", "ru": "улучшать(ся)", "def": "to make or become better", "level": "A2", "ex": [
+    { "en": "I want to improve my English.", "ru": "Я хочу улучшить свой английский." },
+    { "en": "Her health has improved a lot.", "ru": "Её здоровье сильно улучшилось." }
+  ]},
+  { "word": "imagine", "ts": "/ɪˈmædʒɪn/", "pos": "verb", "ru": "представлять (себе), воображать", "def": "to form a picture in your mind", "level": "A2", "ex": [
+    { "en": "Imagine living on the moon.", "ru": "Представь, что живёшь на Луне." },
+    { "en": "I can't imagine life without you.", "ru": "Я не могу представить жизнь без тебя." }
+  ]},
+  { "word": "describe", "ts": "/dɪˈskraɪb/", "pos": "verb", "ru": "описывать", "def": "to say what something is like", "level": "A2", "ex": [
+    { "en": "Can you describe the man you saw?", "ru": "Можешь описать мужчину, которого видел?" },
+    { "en": "She described her trip in detail.", "ru": "Она подробно описала свою поездку." }
+  ]},
+  { "word": "compare", "ts": "/kəmˈpeər/", "pos": "verb", "ru": "сравнивать", "def": "to look at differences and similarities", "level": "A2", "ex": [
+    { "en": "Let's compare the two options.", "ru": "Давай сравним два варианта." },
+    { "en": "You can't compare these two cities.", "ru": "Нельзя сравнивать эти два города." }
+  ]},
+  { "word": "organize", "ts": "/ˈɔːrɡənaɪz/", "pos": "verb", "ru": "организовывать", "def": "to arrange or plan something", "level": "A2", "ex": [
+    { "en": "She organized the whole event.", "ru": "Она организовала всё мероприятие." },
+    { "en": "We need to organize our schedule.", "ru": "Нам нужно организовать наше расписание." }
+  ]},
+  { "word": "achievement", "ts": "/əˈtʃiːvmənt/", "pos": "noun", "ru": "достижение", "def": "something successfully done through effort", "level": "B1", "ex": [
+    { "en": "Winning the award was a great achievement.", "ru": "Победа в награде стала большим достижением." },
+    { "en": "She's proud of her achievements.", "ru": "Она гордится своими достижениями." }
+  ]},
+  { "word": "ambition", "ts": "/æmˈbɪʃn/", "pos": "noun", "ru": "амбиция, стремление", "def": "a strong desire to succeed", "level": "B1", "ex": [
+    { "en": "His ambition is to become a doctor.", "ru": "Его амбиция — стать врачом." },
+    { "en": "She has always had great ambition.", "ru": "У неё всегда были большие амбиции." }
+  ]},
+  { "word": "attitude", "ts": "/ˈætɪtuːd/", "pos": "noun", "ru": "отношение, настрой", "def": "the way you think or feel about something", "level": "B1", "ex": [
+    { "en": "He has a positive attitude towards life.", "ru": "У него позитивное отношение к жизни." },
+    { "en": "Her attitude changed after the meeting.", "ru": "Её настрой изменился после встречи." }
+  ]},
+  { "word": "behavior", "ts": "/bɪˈheɪvjər/", "pos": "noun", "ru": "поведение", "def": "the way a person acts", "level": "B1", "ex": [
+    { "en": "The teacher praised his good behavior.", "ru": "Учитель похвалил его хорошее поведение." },
+    { "en": "Her behavior surprised everyone.", "ru": "Её поведение удивило всех." }
+  ]},
+  { "word": "challenge", "ts": "/ˈtʃælɪndʒ/", "pos": "noun", "ru": "вызов, трудная задача", "def": "a difficult task or situation", "level": "B1", "ex": [
+    { "en": "Learning a new language is a big challenge.", "ru": "Изучение нового языка — большой вызов." },
+    { "en": "She faced many challenges at work.", "ru": "Она столкнулась со многими трудностями на работе." }
+  ]},
+  { "word": "commitment", "ts": "/kəˈmɪtmənt/", "pos": "noun", "ru": "обязательство, преданность делу", "def": "a strong dedication to something", "level": "B1", "ex": [
+    { "en": "Marriage requires real commitment.", "ru": "Брак требует настоящей преданности." },
+    { "en": "He showed great commitment to the project.", "ru": "Он проявил большую преданность проекту." }
+  ]},
+  { "word": "consequence", "ts": "/ˈkɒnsɪkwəns/", "pos": "noun", "ru": "последствие", "def": "a result of an action", "level": "B1", "ex": [
+    { "en": "You must accept the consequences of your actions.", "ru": "Ты должен принять последствия своих действий." },
+    { "en": "The decision had serious consequences.", "ru": "Решение имело серьёзные последствия." }
+  ]},
+  { "word": "contribution", "ts": "/ˌkɒntrɪˈbjuːʃn/", "pos": "noun", "ru": "вклад", "def": "something you give or add to help", "level": "B1", "ex": [
+    { "en": "Her contribution to the project was huge.", "ru": "Её вклад в проект был огромным." },
+    { "en": "Thank you for your contribution.", "ru": "Спасибо за твой вклад." }
+  ]},
+  { "word": "curiosity", "ts": "/ˌkjʊriˈɒsəti/", "pos": "noun", "ru": "любопытство", "def": "a strong desire to know or learn", "level": "B1", "ex": [
+    { "en": "Curiosity is important for learning.", "ru": "Любопытство важно для обучения." },
+    { "en": "Out of curiosity, I opened the box.", "ru": "Из любопытства я открыл коробку." }
+  ]},
+  { "word": "determination", "ts": "/dɪˌtɜːrmɪˈneɪʃn/", "pos": "noun", "ru": "решимость", "def": "firmness in achieving a goal", "level": "B1", "ex": [
+    { "en": "She showed great determination to succeed.", "ru": "Она проявила большую решимость добиться успеха." },
+    { "en": "His determination helped him win.", "ru": "Его решимость помогла ему победить." }
+  ]},
+  { "word": "discipline", "ts": "/ˈdɪsəplɪn/", "pos": "noun", "ru": "дисциплина", "def": "controlled behavior following rules", "level": "B1", "ex": [
+    { "en": "Playing an instrument requires discipline.", "ru": "Игра на инструменте требует дисциплины." },
+    { "en": "The team lacks discipline.", "ru": "Команде не хватает дисциплины." }
+  ]},
+  { "word": "flexibility", "ts": "/ˌfleksəˈbɪləti/", "pos": "noun", "ru": "гибкость", "def": "the ability to change or adapt easily", "level": "B1", "ex": [
+    { "en": "This job offers a lot of flexibility.", "ru": "Эта работа предлагает много гибкости." },
+    { "en": "Flexibility is important in yoga.", "ru": "Гибкость важна в йоге." }
+  ]},
+  { "word": "independence", "ts": "/ˌɪndɪˈpendəns/", "pos": "noun", "ru": "независимость", "def": "freedom from control by others", "level": "B1", "ex": [
+    { "en": "She values her independence.", "ru": "Она ценит свою независимость." },
+    { "en": "The country gained independence in 1960.", "ru": "Страна получила независимость в 1960 году." }
+  ]},
+  { "word": "influence", "ts": "/ˈɪnfluəns/", "pos": "noun", "ru": "влияние", "def": "the power to affect someone or something", "level": "B1", "ex": [
+    { "en": "Parents have a big influence on children.", "ru": "Родители сильно влияют на детей." },
+    { "en": "His work had a lasting influence.", "ru": "Его работа оказала длительное влияние." }
+  ]},
+  { "word": "motivation", "ts": "/ˌmoʊtɪˈveɪʃn/", "pos": "noun", "ru": "мотивация", "def": "the reason or desire to do something", "level": "B1", "ex": [
+    { "en": "I lack motivation to study today.", "ru": "Мне не хватает мотивации учиться сегодня." },
+    { "en": "Her motivation comes from her family.", "ru": "Её мотивация исходит от семьи." }
+  ]},
+  { "word": "perspective", "ts": "/pərˈspektɪv/", "pos": "noun", "ru": "точка зрения, перспектива", "def": "a particular way of viewing things", "level": "B1", "ex": [
+    { "en": "Try to see it from her perspective.", "ru": "Постарайся взглянуть на это с её точки зрения." },
+    { "en": "Travel gives you a new perspective on life.", "ru": "Путешествия дают новый взгляд на жизнь." }
+  ]},
+  { "word": "reputation", "ts": "/ˌrepjuˈteɪʃn/", "pos": "noun", "ru": "репутация", "def": "the opinion people have about someone", "level": "B1", "ex": [
+    { "en": "The company has a good reputation.", "ru": "У компании хорошая репутация." },
+    { "en": "He ruined his reputation.", "ru": "Он испортил свою репутацию." }
+  ]},
+  { "word": "responsibility", "ts": "/rɪˌspɒnsəˈbɪləti/", "pos": "noun", "ru": "ответственность", "def": "a duty to deal with something", "level": "B1", "ex": [
+    { "en": "Taking care of pets is a big responsibility.", "ru": "Забота о питомцах — большая ответственность." },
+    { "en": "It's your responsibility to finish the task.", "ru": "Это твоя ответственность — завершить задачу." }
+  ]},
+  { "word": "tolerance", "ts": "/ˈtɒlərəns/", "pos": "noun", "ru": "терпимость", "def": "the ability to accept different views", "level": "B1", "ex": [
+    { "en": "We should teach children tolerance.", "ru": "Мы должны учить детей терпимости." },
+    { "en": "He has zero tolerance for lies.", "ru": "Он совершенно не терпит лжи." }
+  ]},
+  { "word": "wisdom", "ts": "/ˈwɪzdəm/", "pos": "noun", "ru": "мудрость", "def": "the quality of having good judgment", "level": "B1", "ex": [
+    { "en": "Age brings wisdom.", "ru": "Возраст приносит мудрость." },
+    { "en": "She shared her wisdom with us.", "ru": "Она поделилась с нами своей мудростью." }
+  ]},
+  { "word": "anxious", "ts": "/ˈæŋkʃəs/", "pos": "adjective", "ru": "тревожный, обеспокоенный", "def": "feeling worried or nervous", "level": "B1", "ex": [
+    { "en": "I feel anxious about the results.", "ru": "Я тревожусь из-за результатов." },
+    { "en": "She was anxious before the flight.", "ru": "Она нервничала перед полётом." }
+  ]},
+  { "word": "ambitious", "ts": "/æmˈbɪʃəs/", "pos": "adjective", "ru": "амбициозный", "def": "having a strong desire to succeed", "level": "B1", "ex": [
+    { "en": "He is an ambitious young man.", "ru": "Он амбициозный молодой человек." },
+    { "en": "Their plan is very ambitious.", "ru": "Их план очень амбициозен." }
+  ]},
+  { "word": "arrogant", "ts": "/ˈærəɡənt/", "pos": "adjective", "ru": "высокомерный", "def": "having an exaggerated sense of importance", "level": "B1", "ex": [
+    { "en": "He can be quite arrogant sometimes.", "ru": "Иногда он бывает довольно высокомерным." },
+    { "en": "Her arrogant attitude annoyed everyone.", "ru": "Её высокомерное отношение раздражало всех." }
+  ]},
+  { "word": "cautious", "ts": "/ˈkɔːʃəs/", "pos": "adjective", "ru": "осторожный", "def": "careful to avoid danger", "level": "B1", "ex": [
+    { "en": "Be cautious when crossing the road.", "ru": "Будь осторожен, переходя дорогу." },
+    { "en": "He gave a cautious answer.", "ru": "Он дал осторожный ответ." }
+  ]},
+  { "word": "curious", "ts": "/ˈkjʊəriəs/", "pos": "adjective", "ru": "любопытный", "def": "eager to know or learn something", "level": "B1", "ex": [
+    { "en": "Children are naturally curious.", "ru": "Дети от природы любопытны." },
+    { "en": "I'm curious about your trip.", "ru": "Мне любопытно узнать о твоей поездке." }
+  ]},
+  { "word": "determined", "ts": "/dɪˈtɜːrmɪnd/", "pos": "adjective", "ru": "решительный, полный решимости", "def": "having firmly decided to do something", "level": "B1", "ex": [
+    { "en": "She is determined to win the race.", "ru": "Она полна решимости выиграть гонку." },
+    { "en": "He remained determined despite the setbacks.", "ru": "Он оставался решительным несмотря на неудачи." }
+  ]},
+  { "word": "flexible", "ts": "/ˈfleksəbl/", "pos": "adjective", "ru": "гибкий", "def": "able to change easily", "level": "B1", "ex": [
+    { "en": "My work schedule is flexible.", "ru": "Мой рабочий график гибкий." },
+    { "en": "You need to be flexible when traveling.", "ru": "Нужно быть гибким во время путешествий." }
+  ]},
+  { "word": "genuine", "ts": "/ˈdʒenjuɪn/", "pos": "adjective", "ru": "искренний, подлинный", "def": "real and sincere", "level": "B1", "ex": [
+    { "en": "She gave a genuine smile.", "ru": "Она искренне улыбнулась." },
+    { "en": "This is a genuine leather bag.", "ru": "Это сумка из натуральной кожи." }
+  ]},
+  { "word": "humble", "ts": "/ˈhʌmbl/", "pos": "adjective", "ru": "скромный", "def": "not proud or arrogant", "level": "B1", "ex": [
+    { "en": "Despite his success, he stayed humble.", "ru": "Несмотря на успех, он остался скромным." },
+    { "en": "She comes from a humble background.", "ru": "Она из скромной семьи." }
+  ]},
+  { "word": "stubborn", "ts": "/ˈstʌbərn/", "pos": "adjective", "ru": "упрямый", "def": "refusing to change your mind", "level": "B1", "ex": [
+    { "en": "My grandfather is very stubborn.", "ru": "Мой дедушка очень упрямый." },
+    { "en": "Don't be so stubborn, listen to advice.", "ru": "Не будь таким упрямым, прислушайся к совету." }
+  ]},
+  { "word": "accomplish", "ts": "/əˈkʌmplɪʃ/", "pos": "verb", "ru": "достигать, выполнять", "def": "to succeed in doing something", "level": "B1", "ex": [
+    { "en": "She accomplished her goal.", "ru": "Она достигла своей цели." },
+    { "en": "We accomplished a lot this week.", "ru": "Мы многое сделали на этой неделе." }
+  ]},
+  { "word": "acknowledge", "ts": "/əkˈnɒlɪdʒ/", "pos": "verb", "ru": "признавать", "def": "to accept or admit that something is true", "level": "B1", "ex": [
+    { "en": "He acknowledged his mistake.", "ru": "Он признал свою ошибку." },
+    { "en": "She acknowledged the letter.", "ru": "Она подтвердила получение письма." }
+  ]},
+  { "word": "anticipate", "ts": "/ænˈtɪsɪpeɪt/", "pos": "verb", "ru": "предвидеть, ожидать", "def": "to expect something before it happens", "level": "B1", "ex": [
+    { "en": "We anticipate some delays.", "ru": "Мы ожидаем некоторые задержки." },
+    { "en": "I didn't anticipate this problem.", "ru": "Я не предвидел эту проблему." }
+  ]},
+  { "word": "assume", "ts": "/əˈsuːm/", "pos": "verb", "ru": "предполагать", "def": "to believe something without proof", "level": "B1", "ex": [
+    { "en": "I assumed you already knew.", "ru": "Я предположил, что ты уже знал." },
+    { "en": "Let's not assume anything.", "ru": "Давай не будем ничего предполагать." }
+  ]},
+  { "word": "convince", "ts": "/kənˈvɪns/", "pos": "verb", "ru": "убеждать", "def": "to make someone believe something", "level": "B1", "ex": [
+    { "en": "She convinced me to join.", "ru": "Она убедила меня присоединиться." },
+    { "en": "He couldn't convince his boss.", "ru": "Он не смог убедить своего начальника." }
+  ]},
+  { "word": "cooperate", "ts": "/koʊˈɒpəreɪt/", "pos": "verb", "ru": "сотрудничать", "def": "to work together with others", "level": "B1", "ex": [
+    { "en": "The two teams agreed to cooperate.", "ru": "Две команды согласились сотрудничать." },
+    { "en": "Please cooperate with the police.", "ru": "Пожалуйста, сотрудничайте с полицией." }
+  ]},
+  { "word": "criticize", "ts": "/ˈkrɪtɪsaɪz/", "pos": "verb", "ru": "критиковать", "def": "to express disapproval of someone or something", "level": "B1", "ex": [
+    { "en": "He always criticizes my work.", "ru": "Он всегда критикует мою работу." },
+    { "en": "Don't criticize her in public.", "ru": "Не критикуй её на публике." }
+  ]},
+  { "word": "emphasize", "ts": "/ˈemfəsaɪz/", "pos": "verb", "ru": "подчёркивать", "def": "to give special importance to something", "level": "B1", "ex": [
+    { "en": "She emphasized the importance of sleep.", "ru": "Она подчеркнула важность сна." },
+    { "en": "I want to emphasize one point.", "ru": "Я хочу подчеркнуть один момент." }
+  ]},
+  { "word": "hesitate", "ts": "/ˈhezɪteɪt/", "pos": "verb", "ru": "колебаться", "def": "to pause before doing or saying something", "level": "B1", "ex": [
+    { "en": "Don't hesitate to call me.", "ru": "Не стесняйся звонить мне." },
+    { "en": "She hesitated before answering.", "ru": "Она замялась перед ответом." }
+  ]},
+  { "word": "negotiate", "ts": "/nɪˈɡoʊʃieɪt/", "pos": "verb", "ru": "вести переговоры", "def": "to discuss to reach an agreement", "level": "B1", "ex": [
+    { "en": "They negotiated a better price.", "ru": "Они договорились о лучшей цене." },
+    { "en": "We need to negotiate the terms.", "ru": "Нам нужно обсудить условия." }
+  ]},
+  { "word": "overcome", "ts": "/ˌoʊvərˈkʌm/", "pos": "verb", "ru": "преодолевать", "def": "to succeed in dealing with a problem", "level": "B1", "ex": [
+    { "en": "She overcame her fear of flying.", "ru": "Она преодолела страх полётов." },
+    { "en": "We will overcome this challenge.", "ru": "Мы преодолеем эту трудность." }
+  ]},
+  { "word": "persuade", "ts": "/pərˈsweɪd/", "pos": "verb", "ru": "убеждать (склонить к действию)", "def": "to make someone agree to do something", "level": "B1", "ex": [
+    { "en": "He persuaded me to change my mind.", "ru": "Он убедил меня передумать." },
+    { "en": "She tried to persuade her parents.", "ru": "Она пыталась убедить своих родителей." }
+  ]},
+  { "word": "reflect", "ts": "/rɪˈflekt/", "pos": "verb", "ru": "размышлять, отражать", "def": "to think carefully about something", "level": "B1", "ex": [
+    { "en": "Take time to reflect on your choices.", "ru": "Найди время поразмышлять о своём выборе." },
+    { "en": "The lake reflected the mountains.", "ru": "Озеро отражало горы." }
+  ]},
+  { "word": "resolve", "ts": "/rɪˈzɒlv/", "pos": "verb", "ru": "разрешать (проблему)", "def": "to find a solution to a problem", "level": "B1", "ex": [
+    { "en": "We need to resolve this issue quickly.", "ru": "Нам нужно быстро решить эту проблему." },
+    { "en": "They resolved their differences.", "ru": "Они уладили свои разногласия." }
+  ]},
+  { "word": "sacrifice", "ts": "/ˈsækrɪfaɪs/", "pos": "verb", "ru": "жертвовать", "def": "to give up something valuable for something else", "level": "B1", "ex": [
+    { "en": "She sacrificed her free time to help.", "ru": "Она пожертвовала свободным временем, чтобы помочь." },
+    { "en": "Parents often sacrifice a lot for their kids.", "ru": "Родители часто многим жертвуют ради детей." }
+  ]},
+  { "word": "tolerate", "ts": "/ˈtɒləreɪt/", "pos": "verb", "ru": "терпеть, мириться", "def": "to accept something you dislike without complaint", "level": "B1", "ex": [
+    { "en": "I won't tolerate this behavior.", "ru": "Я не потерплю такого поведения." },
+    { "en": "She can't tolerate loud noise.", "ru": "Она не выносит громкий шум." }
+  ]},
+  { "word": "undergo", "ts": "/ˌʌndərˈɡoʊ/", "pos": "verb", "ru": "подвергаться, проходить через что-то", "def": "to experience something, often difficult", "level": "B1", "ex": [
+    { "en": "He underwent surgery last week.", "ru": "На прошлой неделе он перенёс операцию." },
+    { "en": "The city has undergone many changes.", "ru": "Город претерпел много изменений." }
+  ]},
+  { "word": "withstand", "ts": "/wɪðˈstænd/", "pos": "verb", "ru": "выдерживать, противостоять", "def": "to survive or resist something difficult", "level": "B1", "ex": [
+    { "en": "This material can withstand high heat.", "ru": "Этот материал выдерживает высокую температуру." },
+    { "en": "She withstood a lot of pressure.", "ru": "Она выдержала большое давление." }
+  ]},
+  { "word": "justify", "ts": "/ˈdʒʌstɪfaɪ/", "pos": "verb", "ru": "оправдывать", "def": "to give good reasons for something", "level": "B1", "ex": [
+    { "en": "He tried to justify his decision.", "ru": "Он пытался оправдать своё решение." },
+    { "en": "The cost is hard to justify.", "ru": "Эти затраты трудно оправдать." }
+  ]},
+  { "word": "prioritize", "ts": "/praɪˈɔːrətaɪz/", "pos": "verb", "ru": "расставлять приоритеты", "def": "to treat something as more important", "level": "B1", "ex": [
+    { "en": "You need to prioritize your tasks.", "ru": "Тебе нужно расставить приоритеты в задачах." },
+    { "en": "She prioritizes her health over work.", "ru": "Она ставит здоровье выше работы." }
+  ]},
+  { "word": "ambiguity", "ts": "/ˌæmbɪˈɡjuːəti/", "pos": "noun", "ru": "двусмысленность, неоднозначность", "def": "the quality of having more than one meaning", "level": "B2", "ex": [
+    { "en": "There's some ambiguity in his answer.", "ru": "В его ответе есть некоторая неоднозначность." },
+    { "en": "The contract was full of ambiguity.", "ru": "Контракт был полон двусмысленностей." }
+  ]},
+  { "word": "assumption", "ts": "/əˈsʌmpʃn/", "pos": "noun", "ru": "предположение", "def": "something believed to be true without proof", "level": "B2", "ex": [
+    { "en": "That's just an assumption, not a fact.", "ru": "Это всего лишь предположение, а не факт." },
+    { "en": "We based our plan on a wrong assumption.", "ru": "Мы основали план на неверном предположении." }
+  ]},
+  { "word": "bias", "ts": "/ˈbaɪəs/", "pos": "noun", "ru": "предвзятость", "def": "an unfair preference for or against something", "level": "B2", "ex": [
+    { "en": "The report showed clear bias.", "ru": "В отчёте была явная предвзятость." },
+    { "en": "Try to judge without bias.", "ru": "Постарайся судить без предвзятости." }
+  ]},
+  { "word": "coherence", "ts": "/koʊˈhɪərəns/", "pos": "noun", "ru": "связность, логичность", "def": "the quality of being logical and consistent", "level": "B2", "ex": [
+    { "en": "The essay lacks coherence.", "ru": "Эссе не хватает связности." },
+    { "en": "She improved the coherence of her argument.", "ru": "Она улучшила логичность своего аргумента." }
+  ]},
+  { "word": "controversy", "ts": "/ˈkɒntrəvɜːrsi/", "pos": "noun", "ru": "противоречие, спор", "def": "public disagreement about a topic", "level": "B2", "ex": [
+    { "en": "The decision caused a lot of controversy.", "ru": "Это решение вызвало много споров." },
+    { "en": "There is ongoing controversy about the policy.", "ru": "Вокруг этой политики продолжаются споры." }
+  ]},
+  { "word": "credibility", "ts": "/ˌkredəˈbɪləti/", "pos": "noun", "ru": "доверие, достоверность", "def": "the quality of being trusted or believed", "level": "B2", "ex": [
+    { "en": "The scandal damaged his credibility.", "ru": "Скандал подорвал доверие к нему." },
+    { "en": "She has a lot of credibility in the field.", "ru": "Она пользуется большим авторитетом в этой сфере." }
+  ]},
+  { "word": "discrepancy", "ts": "/dɪˈskrepənsi/", "pos": "noun", "ru": "несоответствие, расхождение", "def": "a difference between things that should match", "level": "B2", "ex": [
+    { "en": "There's a discrepancy between the two reports.", "ru": "Между двумя отчётами есть расхождение." },
+    { "en": "We found a discrepancy in the accounts.", "ru": "Мы обнаружили несоответствие в счетах." }
+  ]},
+  { "word": "dilemma", "ts": "/dɪˈlemə/", "pos": "noun", "ru": "дилемма", "def": "a situation requiring a choice between hard options", "level": "B2", "ex": [
+    { "en": "She faced a difficult dilemma.", "ru": "Она столкнулась с трудной дилеммой." },
+    { "en": "This is a moral dilemma.", "ru": "Это моральная дилемма." }
+  ]},
+  { "word": "implication", "ts": "/ˌɪmplɪˈkeɪʃn/", "pos": "noun", "ru": "последствие, подтекст", "def": "a possible effect or result", "level": "B2", "ex": [
+    { "en": "We must consider the implications of this policy.", "ru": "Мы должны учесть последствия этой политики." },
+    { "en": "His words carried a hidden implication.", "ru": "В его словах был скрытый подтекст." }
+  ]},
+  { "word": "incentive", "ts": "/ɪnˈsentɪv/", "pos": "noun", "ru": "стимул", "def": "something that encourages an action", "level": "B2", "ex": [
+    { "en": "The company offers incentives for good work.", "ru": "Компания предлагает стимулы за хорошую работу." },
+    { "en": "There's little incentive to change.", "ru": "Мало стимулов, чтобы что-то менять." }
+  ]},
+  { "word": "integrity", "ts": "/ɪnˈteɡrəti/", "pos": "noun", "ru": "честность, порядочность", "def": "the quality of being honest and having strong morals", "level": "B2", "ex": [
+    { "en": "He is a man of great integrity.", "ru": "Он человек большой порядочности." },
+    { "en": "She never compromised her integrity.", "ru": "Она никогда не поступалась своей честностью." }
+  ]},
+  { "word": "legitimacy", "ts": "/lɪˈdʒɪtɪməsi/", "pos": "noun", "ru": "законность, легитимность", "def": "the quality of being lawful or justified", "level": "B2", "ex": [
+    { "en": "They questioned the legitimacy of the election.", "ru": "Они поставили под сомнение легитимность выборов." },
+    { "en": "The government's legitimacy was challenged.", "ru": "Законность правительства была оспорена." }
+  ]},
+  { "word": "paradox", "ts": "/ˈpærədɒks/", "pos": "noun", "ru": "парадокс", "def": "a statement that seems contradictory but may be true", "level": "B2", "ex": [
+    { "en": "It's a paradox that he's lonely in a crowded city.", "ru": "Парадокс, что он одинок в переполненном городе." },
+    { "en": "This situation is a classic paradox.", "ru": "Эта ситуация — классический парадокс." }
+  ]},
+  { "word": "perception", "ts": "/pərˈsepʃn/", "pos": "noun", "ru": "восприятие", "def": "the way someone understands or sees something", "level": "B2", "ex": [
+    { "en": "Public perception of the issue has changed.", "ru": "Общественное восприятие проблемы изменилось." },
+    { "en": "Her perception of the event was different.", "ru": "Её восприятие события отличалось." }
+  ]},
+  { "word": "phenomenon", "ts": "/fəˈnɒmɪnən/", "pos": "noun", "ru": "явление, феномен", "def": "a fact or event, especially an unusual one", "level": "B2", "ex": [
+    { "en": "This is a common phenomenon in nature.", "ru": "Это распространённое явление в природе." },
+    { "en": "Social media is a modern phenomenon.", "ru": "Соцсети — современное явление." }
+  ]},
+  { "word": "plausibility", "ts": "/ˌplɔːzəˈbɪləti/", "pos": "noun", "ru": "правдоподобие", "def": "the quality of seeming reasonable or likely true", "level": "B2", "ex": [
+    { "en": "The plausibility of his story is questionable.", "ru": "Правдоподобие его истории под вопросом." },
+    { "en": "Scientists tested the plausibility of the theory.", "ru": "Учёные проверили правдоподобие теории." }
+  ]},
+  { "word": "precedent", "ts": "/ˈpresɪdənt/", "pos": "noun", "ru": "прецедент", "def": "an earlier event used as an example for later cases", "level": "B2", "ex": [
+    { "en": "This case sets a legal precedent.", "ru": "Это дело создаёт юридический прецедент." },
+    { "en": "There is no precedent for this situation.", "ru": "Для этой ситуации нет прецедента." }
+  ]},
+  { "word": "prevalence", "ts": "/ˈprevələns/", "pos": "noun", "ru": "распространённость", "def": "how common something is", "level": "B2", "ex": [
+    { "en": "The prevalence of the disease has increased.", "ru": "Распространённость болезни возросла." },
+    { "en": "Researchers studied the prevalence of the habit.", "ru": "Исследователи изучили распространённость этой привычки." }
+  ]},
+  { "word": "rationale", "ts": "/ˌræʃəˈnæl/", "pos": "noun", "ru": "обоснование", "def": "the reasons behind a decision", "level": "B2", "ex": [
+    { "en": "What's the rationale behind this decision?", "ru": "Каково обоснование этого решения?" },
+    { "en": "He explained the rationale for the change.", "ru": "Он объяснил обоснование изменения." }
+  ]},
+  { "word": "scrutiny", "ts": "/ˈskruːtəni/", "pos": "noun", "ru": "тщательная проверка, пристальное внимание", "def": "close and careful examination", "level": "B2", "ex": [
+    { "en": "The plan came under close scrutiny.", "ru": "План подвергся тщательной проверке." },
+    { "en": "Her work was subject to scrutiny.", "ru": "Её работа была под пристальным вниманием." }
+  ]},
+  { "word": "ambivalent", "ts": "/æmˈbɪvələnt/", "pos": "adjective", "ru": "двойственный, противоречивый", "def": "having mixed feelings about something", "level": "B2", "ex": [
+    { "en": "I feel ambivalent about the decision.", "ru": "Я испытываю двойственные чувства по поводу этого решения." },
+    { "en": "She was ambivalent about moving abroad.", "ru": "Она сомневалась насчёт переезда за границу." }
+  ]},
+  { "word": "arbitrary", "ts": "/ˈɑːrbɪtreri/", "pos": "adjective", "ru": "произвольный", "def": "based on random choice, not reason", "level": "B2", "ex": [
+    { "en": "The rule seems completely arbitrary.", "ru": "Правило кажется совершенно произвольным." },
+    { "en": "They made an arbitrary decision.", "ru": "Они приняли произвольное решение." }
+  ]},
+  { "word": "coherent", "ts": "/koʊˈhɪərənt/", "pos": "adjective", "ru": "связный, логичный", "def": "logical and clear", "level": "B2", "ex": [
+    { "en": "He gave a coherent explanation.", "ru": "Он дал логичное объяснение." },
+    { "en": "Her argument was clear and coherent.", "ru": "Её аргумент был ясным и последовательным." }
+  ]},
+  { "word": "controversial", "ts": "/ˌkɒntrəˈvɜːrʃl/", "pos": "adjective", "ru": "спорный", "def": "causing public disagreement", "level": "B2", "ex": [
+    { "en": "It's a controversial topic.", "ru": "Это спорная тема." },
+    { "en": "The film received controversial reviews.", "ru": "Фильм получил неоднозначные отзывы." }
+  ]},
+  { "word": "credible", "ts": "/ˈkredəbl/", "pos": "adjective", "ru": "заслуживающий доверия", "def": "able to be believed", "level": "B2", "ex": [
+    { "en": "She is a credible witness.", "ru": "Она заслуживающий доверия свидетель." },
+    { "en": "We need credible evidence.", "ru": "Нам нужны достоверные доказательства." }
+  ]},
+  { "word": "deliberate", "ts": "/dɪˈlɪbərət/", "pos": "adjective", "ru": "намеренный, преднамеренный", "def": "done on purpose", "level": "B2", "ex": [
+    { "en": "It was a deliberate mistake.", "ru": "Это была намеренная ошибка." },
+    { "en": "His silence seemed deliberate.", "ru": "Его молчание казалось намеренным." }
+  ]},
+  { "word": "inevitable", "ts": "/ɪnˈevɪtəbl/", "pos": "adjective", "ru": "неизбежный", "def": "certain to happen", "level": "B2", "ex": [
+    { "en": "Change is inevitable.", "ru": "Перемены неизбежны." },
+    { "en": "The conflict was inevitable.", "ru": "Конфликт был неизбежен." }
+  ]},
+  { "word": "legitimate", "ts": "/lɪˈdʒɪtɪmət/", "pos": "adjective", "ru": "законный, обоснованный", "def": "allowed by law or acceptable", "level": "B2", "ex": [
+    { "en": "She has a legitimate reason to be upset.", "ru": "У неё есть законная причина расстраиваться." },
+    { "en": "Is this a legitimate business?", "ru": "Это законный бизнес?" }
+  ]},
+  { "word": "plausible", "ts": "/ˈplɔːzəbl/", "pos": "adjective", "ru": "правдоподобный", "def": "seeming reasonable or probable", "level": "B2", "ex": [
+    { "en": "That explanation sounds plausible.", "ru": "Это объяснение звучит правдоподобно." },
+    { "en": "We need a more plausible theory.", "ru": "Нам нужна более правдоподобная теория." }
+  ]},
+  { "word": "redundant", "ts": "/rɪˈdʌndənt/", "pos": "adjective", "ru": "избыточный, лишний", "def": "no longer needed", "level": "B2", "ex": [
+    { "en": "Some of these words are redundant.", "ru": "Некоторые из этих слов лишние." },
+    { "en": "His position became redundant.", "ru": "Его должность стала излишней." }
+  ]},
+  { "word": "subtle", "ts": "/ˈsʌtl/", "pos": "adjective", "ru": "тонкий, едва заметный", "def": "not obvious, delicate", "level": "B2", "ex": [
+    { "en": "There's a subtle difference between the two.", "ru": "Между ними есть тонкое различие." },
+    { "en": "She gave a subtle hint.", "ru": "Она сделала едва заметный намёк." }
+  ]},
+  { "word": "viable", "ts": "/ˈvaɪəbl/", "pos": "adjective", "ru": "жизнеспособный, осуществимый", "def": "capable of working successfully", "level": "B2", "ex": [
+    { "en": "Is this plan financially viable?", "ru": "Этот план финансово осуществим?" },
+    { "en": "They found a viable solution.", "ru": "Они нашли жизнеспособное решение." }
+  ]},
+  { "word": "articulate", "ts": "/ɑːrˈtɪkjuleɪt/", "pos": "verb", "ru": "чётко выражать (мысли)", "def": "to express thoughts clearly", "level": "B2", "ex": [
+    { "en": "She articulated her ideas clearly.", "ru": "Она чётко сформулировала свои идеи." },
+    { "en": "He struggled to articulate his feelings.", "ru": "Ему было трудно выразить свои чувства." }
+  ]},
+  { "word": "compensate", "ts": "/ˈkɒmpenseɪt/", "pos": "verb", "ru": "компенсировать", "def": "to give something to make up for a loss", "level": "B2", "ex": [
+    { "en": "The company compensated him for the damage.", "ru": "Компания компенсировала ему ущерб." },
+    { "en": "Nothing can compensate for lost time.", "ru": "Ничто не может компенсировать потерянное время." }
+  ]},
+  { "word": "constitute", "ts": "/ˈkɒnstɪtuːt/", "pos": "verb", "ru": "составлять, представлять собой", "def": "to form or make up something", "level": "B2", "ex": [
+    { "en": "Women constitute half of the workforce.", "ru": "Женщины составляют половину рабочей силы." },
+    { "en": "This action constitutes a crime.", "ru": "Это действие представляет собой преступление." }
+  ]},
+  { "word": "contradict", "ts": "/ˌkɒntrəˈdɪkt/", "pos": "verb", "ru": "противоречить", "def": "to say the opposite of something", "level": "B2", "ex": [
+    { "en": "His statement contradicts the facts.", "ru": "Его заявление противоречит фактам." },
+    { "en": "Don't contradict yourself.", "ru": "Не противоречь сам себе." }
+  ]},
+  { "word": "differentiate", "ts": "/ˌdɪfəˈrenʃieɪt/", "pos": "verb", "ru": "различать", "def": "to recognize a difference between things", "level": "B2", "ex": [
+    { "en": "It's hard to differentiate between the two brands.", "ru": "Трудно различить эти два бренда." },
+    { "en": "Children learn to differentiate colors early.", "ru": "Дети рано учатся различать цвета." }
+  ]},
+  { "word": "elaborate", "ts": "/ɪˈlæbəreɪt/", "pos": "verb", "ru": "подробно объяснять, развивать мысль", "def": "to explain in more detail", "level": "B2", "ex": [
+    { "en": "Could you elaborate on that point?", "ru": "Не мог бы ты подробнее объяснить этот момент?" },
+    { "en": "She elaborated on her plan.", "ru": "Она подробно рассказала о своём плане." }
+  ]},
+  { "word": "exacerbate", "ts": "/ɪɡˈzæsərbeɪt/", "pos": "verb", "ru": "усугублять", "def": "to make a problem worse", "level": "B2", "ex": [
+    { "en": "The delay exacerbated the problem.", "ru": "Задержка усугубила проблему." },
+    { "en": "Stress can exacerbate health issues.", "ru": "Стресс может усугубить проблемы со здоровьем." }
+  ]},
+  { "word": "facilitate", "ts": "/fəˈsɪlɪteɪt/", "pos": "verb", "ru": "способствовать, облегчать", "def": "to make a process easier", "level": "B2", "ex": [
+    { "en": "Technology facilitates communication.", "ru": "Технологии способствуют общению." },
+    { "en": "The teacher facilitated the discussion.", "ru": "Учитель способствовал ходу дискуссии." }
+  ]},
+  { "word": "incorporate", "ts": "/ɪnˈkɔːrpəreɪt/", "pos": "verb", "ru": "включать, объединять", "def": "to include something as part of a whole", "level": "B2", "ex": [
+    { "en": "The new plan incorporates several ideas.", "ru": "Новый план включает несколько идей." },
+    { "en": "We incorporated your feedback.", "ru": "Мы учли твои замечания." }
+  ]},
+  { "word": "interpret", "ts": "/ɪnˈtɜːrprət/", "pos": "verb", "ru": "истолковывать, интерпретировать", "def": "to explain the meaning of something", "level": "B2", "ex": [
+    { "en": "How do you interpret this data?", "ru": "Как ты интерпретируешь эти данные?" },
+    { "en": "She interpreted his silence as agreement.", "ru": "Она истолковала его молчание как согласие." }
+  ]},
+  { "word": "mitigate", "ts": "/ˈmɪtɪɡeɪt/", "pos": "verb", "ru": "смягчать, снижать (риск)", "def": "to make something less severe", "level": "B2", "ex": [
+    { "en": "We took steps to mitigate the risk.", "ru": "Мы приняли меры, чтобы снизить риск." },
+    { "en": "The plan aims to mitigate climate change.", "ru": "План направлен на смягчение изменения климата." }
+  ]},
+  { "word": "reinforce", "ts": "/ˌriːɪnˈfɔːrs/", "pos": "verb", "ru": "усиливать, подкреплять", "def": "to strengthen something", "level": "B2", "ex": [
+    { "en": "The results reinforce our theory.", "ru": "Результаты подкрепляют нашу теорию." },
+    { "en": "Practice reinforces learning.", "ru": "Практика закрепляет обучение." }
+  ]},
+  { "word": "substantiate", "ts": "/səbˈstænʃieɪt/", "pos": "verb", "ru": "подтверждать доказательствами", "def": "to provide evidence to support a claim", "level": "B2", "ex": [
+    { "en": "She couldn't substantiate her claims.", "ru": "Она не смогла подтвердить свои утверждения." },
+    { "en": "The evidence substantiates the theory.", "ru": "Доказательства подтверждают теорию." }
+  ]},
+  { "word": "undermine", "ts": "/ˌʌndərˈmaɪn/", "pos": "verb", "ru": "подрывать", "def": "to weaken something gradually", "level": "B2", "ex": [
+    { "en": "His comments undermined her confidence.", "ru": "Его комментарии подорвали её уверенность." },
+    { "en": "The scandal undermined public trust.", "ru": "Скандал подорвал доверие общества." }
+  ]},
+  { "word": "validate", "ts": "/ˈvælɪdeɪt/", "pos": "verb", "ru": "подтверждать, признавать действительным", "def": "to confirm that something is true or acceptable", "level": "B2", "ex": [
+    { "en": "The test results validate our hypothesis.", "ru": "Результаты теста подтверждают нашу гипотезу." },
+    { "en": "Please validate your ticket before boarding.", "ru": "Пожалуйста, подтвердите билет перед посадкой." }
+  ]},
+  { "word": "accumulate", "ts": "/əˈkjuːmjəleɪt/", "pos": "verb", "ru": "накапливать(ся)", "def": "to gather or collect over time", "level": "B2", "ex": [
+    { "en": "Dust accumulated on the shelves.", "ru": "На полках накопилась пыль." },
+    { "en": "She accumulated a lot of experience over the years.", "ru": "За годы она накопила большой опыт." }
+  ]},
+  { "word": "correlate", "ts": "/ˈkɔːrəleɪt/", "pos": "verb", "ru": "соотноситься, коррелировать", "def": "to have a mutual relationship", "level": "B2", "ex": [
+    { "en": "Income tends to correlate with education.", "ru": "Доход, как правило, коррелирует с образованием." },
+    { "en": "The two factors correlate closely.", "ru": "Эти два фактора тесно взаимосвязаны." }
+  ]},
+  { "word": "speculate", "ts": "/ˈspekjuleɪt/", "pos": "verb", "ru": "строить предположения, спекулировать", "def": "to form a theory without firm evidence", "level": "B2", "ex": [
+    { "en": "Analysts speculate about future prices.", "ru": "Аналитики строят предположения о будущих ценах." },
+    { "en": "I don't want to speculate without facts.", "ru": "Я не хочу строить догадки без фактов." }
+  ]},
+  { "word": "acumen", "ts": "/əˈkjuːmən/", "pos": "noun", "ru": "проницательность, смекалка", "def": "the ability to make good judgments quickly", "level": "C1", "ex": [
+    { "en": "She has great business acumen.", "ru": "У неё отличная деловая хватка." },
+    { "en": "His acumen helped the company grow.", "ru": "Его проницательность помогла компании расти." }
+  ]},
+  { "word": "adversity", "ts": "/ədˈvɜːrsəti/", "pos": "noun", "ru": "невзгоды, трудности", "def": "difficult or unfavorable circumstances", "level": "C1", "ex": [
+    { "en": "He remained calm in the face of adversity.", "ru": "Он оставался спокоен перед лицом трудностей." },
+    { "en": "She overcame great adversity in her life.", "ru": "Она преодолела большие трудности в своей жизни." }
+  ]},
+  { "word": "altruism", "ts": "/ˈæltruɪzəm/", "pos": "noun", "ru": "альтруизм", "def": "selfless concern for others' wellbeing", "level": "C1", "ex": [
+    { "en": "Her charity work reflects true altruism.", "ru": "Её благотворительная работа отражает подлинный альтруизм." },
+    { "en": "Pure altruism is rare in business.", "ru": "Чистый альтруизм редок в бизнесе." }
+  ]},
+  { "word": "autonomy", "ts": "/ɔːˈtɒnəmi/", "pos": "noun", "ru": "автономия, самостоятельность", "def": "the right to govern or control yourself", "level": "C1", "ex": [
+    { "en": "Teenagers seek more autonomy.", "ru": "Подростки стремятся к большей самостоятельности." },
+    { "en": "The region was granted autonomy.", "ru": "Региону предоставили автономию." }
+  ]},
+  { "word": "cognizance", "ts": "/ˈkɒɡnɪzəns/", "pos": "noun", "ru": "осведомлённость, понимание", "def": "awareness or knowledge of something", "level": "C1", "ex": [
+    { "en": "We must take cognizance of the risks.", "ru": "Мы должны учитывать риски." },
+    { "en": "She acted with full cognizance of the facts.", "ru": "Она действовала, полностью осознавая факты." }
+  ]},
+  { "word": "conundrum", "ts": "/kəˈnʌndrəm/", "pos": "noun", "ru": "головоломка, сложная задача", "def": "a confusing and difficult problem", "level": "C1", "ex": [
+    { "en": "This is a real conundrum for scientists.", "ru": "Это настоящая головоломка для учёных." },
+    { "en": "We face a moral conundrum.", "ru": "Мы столкнулись с моральной дилеммой." }
+  ]},
+  { "word": "discourse", "ts": "/ˈdɪskɔːrs/", "pos": "noun", "ru": "рассуждение, дискурс", "def": "written or spoken communication on a topic", "level": "C1", "ex": [
+    { "en": "Public discourse on the topic has grown.", "ru": "Общественная дискуссия на эту тему усилилась." },
+    { "en": "His discourse was full of complex ideas.", "ru": "Его рассуждение было полно сложных идей." }
+  ]},
+  { "word": "disparity", "ts": "/dɪˈspærəti/", "pos": "noun", "ru": "несоответствие, неравенство", "def": "a great difference between things", "level": "C1", "ex": [
+    { "en": "There's a huge disparity in income.", "ru": "Существует огромное неравенство в доходах." },
+    { "en": "The report highlighted disparities between regions.", "ru": "Отчёт выявил различия между регионами." }
+  ]},
+  { "word": "dichotomy", "ts": "/daɪˈkɒtəmi/", "pos": "noun", "ru": "дихотомия, противопоставление", "def": "a division into two opposite parts", "level": "C1", "ex": [
+    { "en": "There's a dichotomy between theory and practice.", "ru": "Существует противопоставление между теорией и практикой." },
+    { "en": "The film explores the dichotomy of good and evil.", "ru": "Фильм исследует дихотомию добра и зла." }
+  ]},
+  { "word": "epitome", "ts": "/ɪˈpɪtəmi/", "pos": "noun", "ru": "воплощение, образец", "def": "a perfect example of something", "level": "C1", "ex": [
+    { "en": "She is the epitome of elegance.", "ru": "Она — воплощение элегантности." },
+    { "en": "This restaurant is the epitome of luxury.", "ru": "Этот ресторан — образец роскоши." }
+  ]},
+  { "word": "exigency", "ts": "/ˈeksɪdʒənsi/", "pos": "noun", "ru": "крайняя необходимость, острая нужда", "def": "an urgent need or demand", "level": "C1", "ex": [
+    { "en": "The exigencies of the situation required quick action.", "ru": "Острота ситуации требовала быстрых действий." },
+    { "en": "They acted due to financial exigency.", "ru": "Они действовали из-за крайней финансовой необходимости." }
+  ]},
+  { "word": "hegemony", "ts": "/hɪˈdʒeməni/", "pos": "noun", "ru": "гегемония, господство", "def": "dominance of one group over others", "level": "C1", "ex": [
+    { "en": "The empire maintained hegemony for centuries.", "ru": "Империя удерживала господство веками." },
+    { "en": "Cultural hegemony shapes public opinion.", "ru": "Культурная гегемония формирует общественное мнение." }
+  ]},
+  { "word": "inertia", "ts": "/ɪˈnɜːrʃə/", "pos": "noun", "ru": "инертность, бездействие", "def": "a tendency to remain unchanged or inactive", "level": "C1", "ex": [
+    { "en": "The company suffered from organizational inertia.", "ru": "Компания страдала от организационной инертности." },
+    { "en": "It's hard to overcome inertia and start exercising.", "ru": "Трудно преодолеть инертность и начать заниматься спортом." }
+  ]},
+  { "word": "juxtaposition", "ts": "/ˌdʒʌkstəpəˈzɪʃn/", "pos": "noun", "ru": "сопоставление", "def": "the placing of things side by side for comparison", "level": "C1", "ex": [
+    { "en": "The juxtaposition of old and new buildings is striking.", "ru": "Сопоставление старых и новых зданий впечатляет." },
+    { "en": "The artist used juxtaposition of colors.", "ru": "Художник использовал сопоставление цветов." }
+  ]},
+  { "word": "nuance", "ts": "/ˈnuːɑːns/", "pos": "noun", "ru": "нюанс, оттенок смысла", "def": "a subtle difference in meaning or expression", "level": "C1", "ex": [
+    { "en": "Translation often loses subtle nuances.", "ru": "Перевод часто теряет тонкие нюансы." },
+    { "en": "She understood the nuances of the argument.", "ru": "Она понимала нюансы аргумента." }
+  ]},
+  { "word": "pragmatism", "ts": "/ˈpræɡmətɪzəm/", "pos": "noun", "ru": "прагматизм", "def": "dealing with things in a practical way", "level": "C1", "ex": [
+    { "en": "His pragmatism helped solve the problem quickly.", "ru": "Его прагматизм помог быстро решить проблему." },
+    { "en": "The team valued pragmatism over ideology.", "ru": "Команда ценила прагматизм больше идеологии." }
+  ]},
+  { "word": "proliferation", "ts": "/prəˌlɪfəˈreɪʃn/", "pos": "noun", "ru": "распространение, увеличение", "def": "rapid increase in number", "level": "C1", "ex": [
+    { "en": "The proliferation of smartphones changed society.", "ru": "Распространение смартфонов изменило общество." },
+    { "en": "There's growing concern about nuclear proliferation.", "ru": "Растёт беспокойство по поводу распространения ядерного оружия." }
+  ]},
+  { "word": "repercussion", "ts": "/ˌriːpərˈkʌʃn/", "pos": "noun", "ru": "последствие, отзвук", "def": "an indirect effect of an event", "level": "C1", "ex": [
+    { "en": "The decision had serious repercussions.", "ru": "Это решение имело серьёзные последствия." },
+    { "en": "There will be repercussions for breaking the rule.", "ru": "За нарушение правила будут последствия." }
+  ]},
+  { "word": "resilience", "ts": "/rɪˈzɪliəns/", "pos": "noun", "ru": "устойчивость, стойкость", "def": "the ability to recover quickly from difficulty", "level": "C1", "ex": [
+    { "en": "Her resilience helped her recover quickly.", "ru": "Её стойкость помогла ей быстро восстановиться." },
+    { "en": "The economy showed remarkable resilience.", "ru": "Экономика показала удивительную устойчивость." }
+  ]},
+  { "word": "synthesis", "ts": "/ˈsɪnθəsɪs/", "pos": "noun", "ru": "синтез, объединение", "def": "the combination of ideas to form a whole", "level": "C1", "ex": [
+    { "en": "The book is a synthesis of many theories.", "ru": "Книга — это синтез многих теорий." },
+    { "en": "Protein synthesis occurs in cells.", "ru": "Синтез белка происходит в клетках." }
+  ]},
+  { "word": "austere", "ts": "/ɔːˈstɪr/", "pos": "adjective", "ru": "строгий, аскетичный", "def": "severely simple and plain", "level": "C1", "ex": [
+    { "en": "He lived an austere life.", "ru": "Он вёл аскетичную жизнь." },
+    { "en": "The room had an austere design.", "ru": "Комната имела строгий дизайн." }
+  ]},
+  { "word": "capricious", "ts": "/kəˈprɪʃəs/", "pos": "adjective", "ru": "капризный, непредсказуемый", "def": "changing mood or behavior suddenly", "level": "C1", "ex": [
+    { "en": "The weather here is quite capricious.", "ru": "Погода здесь довольно переменчивая." },
+    { "en": "Her capricious mood confused everyone.", "ru": "Её капризное настроение всех сбивало с толку." }
+  ]},
+  { "word": "cogent", "ts": "/ˈkoʊdʒənt/", "pos": "adjective", "ru": "убедительный", "def": "clear, logical, and convincing", "level": "C1", "ex": [
+    { "en": "He made a cogent argument.", "ru": "Он привёл убедительный аргумент." },
+    { "en": "The report offers a cogent analysis.", "ru": "Отчёт содержит убедительный анализ." }
+  ]},
+  { "word": "discerning", "ts": "/dɪˈsɜːrnɪŋ/", "pos": "adjective", "ru": "проницательный, разборчивый", "def": "showing good judgment or taste", "level": "C1", "ex": [
+    { "en": "She has a discerning eye for art.", "ru": "У неё наметанный глаз на искусство." },
+    { "en": "Discerning customers demand quality.", "ru": "Разборчивые клиенты требуют качества." }
+  ]},
+  { "word": "equivocal", "ts": "/ɪˈkwɪvəkl/", "pos": "adjective", "ru": "двусмысленный, неоднозначный", "def": "open to more than one interpretation", "level": "C1", "ex": [
+    { "en": "His answer was rather equivocal.", "ru": "Его ответ был довольно двусмысленным." },
+    { "en": "The results were equivocal.", "ru": "Результаты были неоднозначными." }
+  ]},
+  { "word": "esoteric", "ts": "/ˌesəˈterɪk/", "pos": "adjective", "ru": "эзотерический, малопонятный узкому кругу", "def": "understood by only a small group", "level": "C1", "ex": [
+    { "en": "The lecture was too esoteric for beginners.", "ru": "Лекция была слишком сложной для новичков." },
+    { "en": "He collects esoteric books.", "ru": "Он коллекционирует малоизвестные книги." }
+  ]},
+  { "word": "impartial", "ts": "/ɪmˈpɑːrʃl/", "pos": "adjective", "ru": "беспристрастный", "def": "not favoring one side over another", "level": "C1", "ex": [
+    { "en": "The judge must remain impartial.", "ru": "Судья должен оставаться беспристрастным." },
+    { "en": "We need an impartial opinion.", "ru": "Нам нужно беспристрастное мнение." }
+  ]},
+  { "word": "meticulous", "ts": "/məˈtɪkjələs/", "pos": "adjective", "ru": "дотошный, скрупулёзный", "def": "very careful and precise about details", "level": "C1", "ex": [
+    { "en": "She is meticulous about her work.", "ru": "Она очень скрупулёзна в работе." },
+    { "en": "He kept meticulous records.", "ru": "Он вёл тщательный учёт." }
+  ]},
+  { "word": "pervasive", "ts": "/pərˈveɪsɪv/", "pos": "adjective", "ru": "вездесущий, распространённый повсеместно", "def": "present or spreading everywhere", "level": "C1", "ex": [
+    { "en": "Social media has a pervasive influence.", "ru": "Соцсети оказывают повсеместное влияние." },
+    { "en": "The smell was pervasive throughout the house.", "ru": "Запах распространился по всему дому." }
+  ]},
+  { "word": "tenuous", "ts": "/ˈtenjuəs/", "pos": "adjective", "ru": "незначительный, шаткий, слабый", "def": "very weak or slight", "level": "C1", "ex": [
+    { "en": "The evidence for this theory is tenuous.", "ru": "Доказательства этой теории довольно шаткие." },
+    { "en": "Their connection to the case is tenuous.", "ru": "Их связь с делом весьма сомнительна." }
+  ]},
+  { "word": "abate", "ts": "/əˈbeɪt/", "pos": "verb", "ru": "ослабевать, стихать", "def": "to become less intense", "level": "C1", "ex": [
+    { "en": "The storm finally began to abate.", "ru": "Буря наконец начала стихать." },
+    { "en": "Her anger slowly abated.", "ru": "Её гнев постепенно утих." }
+  ]},
+  { "word": "acquiesce", "ts": "/ˌækwiˈes/", "pos": "verb", "ru": "соглашаться неохотно, уступать", "def": "to accept something reluctantly without protest", "level": "C1", "ex": [
+    { "en": "He acquiesced to their demands.", "ru": "Он уступил их требованиям." },
+    { "en": "She reluctantly acquiesced.", "ru": "Она неохотно согласилась." }
+  ]},
+  { "word": "ameliorate", "ts": "/əˈmiːliəreɪt/", "pos": "verb", "ru": "улучшать", "def": "to make a situation better", "level": "C1", "ex": [
+    { "en": "The new policy aims to ameliorate poverty.", "ru": "Новая политика направлена на смягчение бедности." },
+    { "en": "They tried to ameliorate the situation.", "ru": "Они пытались улучшить ситуацию." }
+  ]},
+  { "word": "circumvent", "ts": "/ˌsɜːrkəmˈvent/", "pos": "verb", "ru": "обходить (правило/трудность)", "def": "to find a way around an obstacle", "level": "C1", "ex": [
+    { "en": "They found a way to circumvent the rule.", "ru": "Они нашли способ обойти правило." },
+    { "en": "He circumvented the problem cleverly.", "ru": "Он умно обошёл проблему." }
+  ]},
+  { "word": "conflate", "ts": "/kənˈfleɪt/", "pos": "verb", "ru": "смешивать, объединять понятия", "def": "to combine two ideas into one, often mistakenly", "level": "C1", "ex": [
+    { "en": "People often conflate these two ideas.", "ru": "Люди часто смешивают эти два понятия." },
+    { "en": "Don't conflate opinion with fact.", "ru": "Не путай мнение с фактом." }
+  ]},
+  { "word": "corroborate", "ts": "/kəˈrɒbəreɪt/", "pos": "verb", "ru": "подтверждать", "def": "to confirm or support a statement", "level": "C1", "ex": [
+    { "en": "The witness corroborated her story.", "ru": "Свидетель подтвердил её историю." },
+    { "en": "New evidence corroborates the theory.", "ru": "Новые доказательства подтверждают теорию." }
+  ]},
+  { "word": "delineate", "ts": "/dɪˈlɪnieɪt/", "pos": "verb", "ru": "очерчивать, обозначать", "def": "to describe or outline precisely", "level": "C1", "ex": [
+    { "en": "The contract delineates each party's duties.", "ru": "Контракт чётко определяет обязанности каждой стороны." },
+    { "en": "The report delineates the main risks.", "ru": "Отчёт очерчивает основные риски." }
+  ]},
+  { "word": "deprecate", "ts": "/ˈdeprəkeɪt/", "pos": "verb", "ru": "осуждать, не одобрять", "def": "to express disapproval of something", "level": "C1", "ex": [
+    { "en": "The critic deprecated the new style.", "ru": "Критик осудил новый стиль." },
+    { "en": "This function has been deprecated.", "ru": "Эта функция признана устаревшей." }
+  ]},
+  { "word": "disseminate", "ts": "/dɪˈsemɪneɪt/", "pos": "verb", "ru": "распространять (информацию)", "def": "to spread information widely", "level": "C1", "ex": [
+    { "en": "The organization disseminates information widely.", "ru": "Организация широко распространяет информацию." },
+    { "en": "News spreads fast when disseminated online.", "ru": "Новости быстро распространяются в интернете." }
+  ]},
+  { "word": "eschew", "ts": "/ɪsˈtʃuː/", "pos": "verb", "ru": "избегать, сторониться", "def": "to deliberately avoid something", "level": "C1", "ex": [
+    { "en": "She eschews junk food.", "ru": "Она избегает нездоровой еды." },
+    { "en": "He eschews public attention.", "ru": "Он избегает публичного внимания." }
+  ]},
+  { "word": "extrapolate", "ts": "/ɪkˈstræpəleɪt/", "pos": "verb", "ru": "экстраполировать, делать выводы на основе данных", "def": "to estimate by extending known data", "level": "C1", "ex": [
+    { "en": "We can extrapolate future trends from this data.", "ru": "Мы можем экстраполировать будущие тенденции из этих данных." },
+    { "en": "It's risky to extrapolate from a small sample.", "ru": "Рискованно делать выводы по небольшой выборке." }
+  ]},
+  { "word": "galvanize", "ts": "/ˈɡælvənaɪz/", "pos": "verb", "ru": "побуждать к действию, воодушевлять", "def": "to shock someone into action", "level": "C1", "ex": [
+    { "en": "The speech galvanized the crowd.", "ru": "Речь воодушевила толпу." },
+    { "en": "The crisis galvanized the community into action.", "ru": "Кризис побудил сообщество к действию." }
+  ]},
+  { "word": "instigate", "ts": "/ˈɪnstɪɡeɪt/", "pos": "verb", "ru": "подстрекать, инициировать", "def": "to cause something to start", "level": "C1", "ex": [
+    { "en": "He was accused of instigating the riot.", "ru": "Его обвинили в подстрекательстве к беспорядкам." },
+    { "en": "She instigated changes in the company.", "ru": "Она инициировала изменения в компании." }
+  ]},
+  { "word": "permeate", "ts": "/ˈpɜːrmieɪt/", "pos": "verb", "ru": "проникать, пропитывать", "def": "to spread through every part of something", "level": "C1", "ex": [
+    { "en": "The smell of coffee permeated the room.", "ru": "Запах кофе пропитал комнату." },
+    { "en": "Fear permeated the entire city.", "ru": "Страх охватил весь город." }
+  ]},
+  { "word": "proliferate", "ts": "/prəˈlɪfəreɪt/", "pos": "verb", "ru": "быстро распространяться, размножаться", "def": "to increase rapidly in number", "level": "C1", "ex": [
+    { "en": "Fake news has proliferated online.", "ru": "Фейковые новости быстро распространились в интернете." },
+    { "en": "Small businesses proliferated in the area.", "ru": "Малый бизнес быстро развивался в этом районе." }
+  ]},
+  { "word": "reconcile", "ts": "/ˈrekənsaɪl/", "pos": "verb", "ru": "примирять, урегулировать", "def": "to make two ideas or people agree again", "level": "C1", "ex": [
+    { "en": "They finally reconciled after years apart.", "ru": "Они наконец помирились после многих лет разлуки." },
+    { "en": "It's hard to reconcile these two views.", "ru": "Трудно примирить эти два взгляда." }
+  ]},
+  { "word": "subsume", "ts": "/səbˈsuːm/", "pos": "verb", "ru": "включать в себя, поглощать", "def": "to include something within a larger category", "level": "C1", "ex": [
+    { "en": "The small company was subsumed into a larger one.", "ru": "Маленькая компания была поглощена более крупной." },
+    { "en": "This rule is subsumed under a broader principle.", "ru": "Это правило входит в более широкий принцип." }
+  ]},
+  { "word": "transcend", "ts": "/trænˈsend/", "pos": "verb", "ru": "превосходить, выходить за пределы", "def": "to go beyond the limits of something", "level": "C1", "ex": [
+    { "en": "Great art transcends cultural boundaries.", "ru": "Великое искусство выходит за пределы культурных границ." },
+    { "en": "Their friendship transcended language barriers.", "ru": "Их дружба преодолела языковые барьеры." }
+  ]},
+  { "word": "vindicate", "ts": "/ˈvɪndɪkeɪt/", "pos": "verb", "ru": "оправдывать, доказывать правоту", "def": "to prove someone right or innocent", "level": "C1", "ex": [
+    { "en": "The evidence vindicated her claims.", "ru": "Доказательства подтвердили её правоту." },
+    { "en": "He was finally vindicated after the trial.", "ru": "Его наконец оправдали после суда." }
+  ]},
+  { "word": "underscore", "ts": "/ˌʌndərˈskɔːr/", "pos": "verb", "ru": "подчёркивать (важность)", "def": "to emphasize the importance of something", "level": "C1", "ex": [
+    { "en": "The report underscores the need for reform.", "ru": "Отчёт подчёркивает необходимость реформ." },
+    { "en": "This event underscores a growing problem.", "ru": "Это событие подчёркивает растущую проблему." }
+  ]},
+  { "word": "panacea", "ts": "/ˌpænəˈsiːə/", "pos": "noun", "ru": "панацея", "def": "a solution that solves all problems", "level": "C2", "ex": [
+    { "en": "There's no panacea for economic problems.", "ru": "Не существует панацеи от экономических проблем." },
+    { "en": "Technology is not a panacea for every issue.", "ru": "Технологии — не панацея от всех проблем." }
+  ]},
+  { "word": "plethora", "ts": "/ˈpleθərə/", "pos": "noun", "ru": "изобилие, избыток", "def": "a very large amount of something", "level": "C2", "ex": [
+    { "en": "There's a plethora of options available.", "ru": "Доступно огромное количество вариантов." },
+    { "en": "The store offers a plethora of choices.", "ru": "Магазин предлагает изобилие выбора." }
+  ]},
+  { "word": "quandary", "ts": "/ˈkwɒndəri/", "pos": "noun", "ru": "затруднительное положение", "def": "a state of uncertainty about what to do", "level": "C2", "ex": [
+    { "en": "She was in a quandary about what to do.", "ru": "Она была в затруднении насчёт того, что делать." },
+    { "en": "We found ourselves in a real quandary.", "ru": "Мы оказались в настоящем затруднительном положении." }
+  ]},
+  { "word": "vicissitude", "ts": "/vɪˈsɪsɪtuːd/", "pos": "noun", "ru": "превратность, изменчивость", "def": "a change of circumstances, often difficult", "level": "C2", "ex": [
+    { "en": "He endured the vicissitudes of life with grace.", "ru": "Он с достоинством переносил превратности жизни." },
+    { "en": "The vicissitudes of fortune affected them all.", "ru": "Превратности судьбы коснулись их всех." }
+  ]},
+  { "word": "zeitgeist", "ts": "/ˈzaɪtɡaɪst/", "pos": "noun", "ru": "дух времени", "def": "the general mood or spirit of a time period", "level": "C2", "ex": [
+    { "en": "The film captures the zeitgeist of the decade.", "ru": "Фильм отражает дух времени того десятилетия." },
+    { "en": "Her music reflects the current zeitgeist.", "ru": "Её музыка отражает современный дух времени." }
+  ]},
+  { "word": "chicanery", "ts": "/ʃɪˈkeɪnəri/", "pos": "noun", "ru": "обман, махинации", "def": "the use of tricks to deceive people", "level": "C2", "ex": [
+    { "en": "The deal was full of legal chicanery.", "ru": "Сделка была полна юридических махинаций." },
+    { "en": "Voters were tired of political chicanery.", "ru": "Избиратели устали от политических махинаций." }
+  ]},
+  { "word": "perspicacity", "ts": "/ˌpɜːrspɪˈkæsəti/", "pos": "noun", "ru": "проницательность", "def": "the ability to understand things clearly", "level": "C2", "ex": [
+    { "en": "Her perspicacity impressed the whole team.", "ru": "Её проницательность впечатлила всю команду." },
+    { "en": "He solved it with remarkable perspicacity.", "ru": "Он решил это с поразительной проницательностью." }
+  ]},
+  { "word": "sagacity", "ts": "/səˈɡæsəti/", "pos": "noun", "ru": "мудрость, прозорливость", "def": "good judgment and wisdom", "level": "C2", "ex": [
+    { "en": "The old man was known for his sagacity.", "ru": "Старик был известен своей мудростью." },
+    { "en": "Her sagacity guided the company through crisis.", "ru": "Её прозорливость провела компанию через кризис." }
+  ]},
+  { "word": "obfuscation", "ts": "/ˌɒbfʌˈskeɪʃn/", "pos": "noun", "ru": "запутывание, затемнение смысла", "def": "the act of making something unclear", "level": "C2", "ex": [
+    { "en": "The report was full of obfuscation.", "ru": "Отчёт был полон запутанных формулировок." },
+    { "en": "His answer seemed like deliberate obfuscation.", "ru": "Его ответ казался намеренным запутыванием." }
+  ]},
+  { "word": "equanimity", "ts": "/ˌekwəˈnɪməti/", "pos": "noun", "ru": "невозмутимость, спокойствие духа", "def": "calmness under pressure", "level": "C2", "ex": [
+    { "en": "She faced the crisis with equanimity.", "ru": "Она встретила кризис с невозмутимостью." },
+    { "en": "He accepted the news with equanimity.", "ru": "Он спокойно принял эту новость." }
+  ]},
+  { "word": "insouciance", "ts": "/ɪnˈsuːsiəns/", "pos": "noun", "ru": "беззаботность, беспечность", "def": "a casual lack of concern", "level": "C2", "ex": [
+    { "en": "His insouciance annoyed his colleagues.", "ru": "Его беспечность раздражала коллег." },
+    { "en": "She spoke with youthful insouciance.", "ru": "Она говорила с юношеской беззаботностью." }
+  ]},
+  { "word": "mendacity", "ts": "/menˈdæsəti/", "pos": "noun", "ru": "лживость", "def": "the tendency to lie", "level": "C2", "ex": [
+    { "en": "The politician was known for his mendacity.", "ru": "Политик был известен своей лживостью." },
+    { "en": "The book exposes the mendacity of the regime.", "ru": "Книга разоблачает лживость режима." }
+  ]},
+  { "word": "obduracy", "ts": "/ˈɒbdʒʊrəsi/", "pos": "noun", "ru": "упрямство, непреклонность", "def": "stubborn refusal to change", "level": "C2", "ex": [
+    { "en": "His obduracy made negotiations difficult.", "ru": "Его непреклонность усложняла переговоры." },
+    { "en": "Her obduracy surprised everyone at the meeting.", "ru": "Её упрямство удивило всех на встрече." }
+  ]},
+  { "word": "opprobrium", "ts": "/əˈproʊbriəm/", "pos": "noun", "ru": "позор, поругание", "def": "harsh public criticism or disgrace", "level": "C2", "ex": [
+    { "en": "He faced public opprobrium after the scandal.", "ru": "После скандала он столкнулся с общественным осуждением." },
+    { "en": "The decision brought opprobrium on the company.", "ru": "Решение навлекло позор на компанию." }
+  ]},
+  { "word": "penury", "ts": "/ˈpenjəri/", "pos": "noun", "ru": "нищета, крайняя бедность", "def": "extreme poverty", "level": "C2", "ex": [
+    { "en": "The family lived in penury for years.", "ru": "Семья годами жила в нищете." },
+    { "en": "He died in penury and obscurity.", "ru": "Он умер в нищете и безвестности." }
+  ]},
+  { "word": "profligacy", "ts": "/ˈprɒflɪɡəsi/", "pos": "noun", "ru": "расточительность", "def": "reckless waste of money or resources", "level": "C2", "ex": [
+    { "en": "The government was criticized for its profligacy.", "ru": "Правительство критиковали за расточительность." },
+    { "en": "His profligacy left him deep in debt.", "ru": "Его расточительность оставила его в глубоких долгах." }
+  ]},
+  { "word": "solipsism", "ts": "/ˈsɒlɪpsɪzəm/", "pos": "noun", "ru": "солипсизм, крайний эгоцентризм", "def": "extreme self-centered focus", "level": "C2", "ex": [
+    { "en": "The novel explores themes of solipsism.", "ru": "Роман исследует темы солипсизма." },
+    { "en": "His solipsism made him ignore others' feelings.", "ru": "Его эгоцентризм заставлял его игнорировать чувства других." }
+  ]},
+  { "word": "sycophant", "ts": "/ˈsɪkəfənt/", "pos": "noun", "ru": "подхалим, льстец", "def": "a person who flatters others for personal gain", "level": "C2", "ex": [
+    { "en": "He was surrounded by sycophants.", "ru": "Он был окружён подхалимами." },
+    { "en": "She despised sycophants at work.", "ru": "Она презирала подхалимов на работе." }
+  ]},
+  { "word": "verisimilitude", "ts": "/ˌverɪsɪˈmɪlɪtuːd/", "pos": "noun", "ru": "правдоподобие", "def": "the appearance of being true or real", "level": "C2", "ex": [
+    { "en": "The film is praised for its verisimilitude.", "ru": "Фильм хвалят за его правдоподобие." },
+    { "en": "The novel's verisimilitude impressed critics.", "ru": "Правдоподобие романа впечатлило критиков." }
+  ]},
+  { "word": "volition", "ts": "/voʊˈlɪʃn/", "pos": "noun", "ru": "воля, волеизъявление", "def": "the power of choosing or willing", "level": "C2", "ex": [
+    { "en": "She left of her own volition.", "ru": "Она ушла по собственной воле." },
+    { "en": "He acted against his own volition.", "ru": "Он действовал вопреки собственной воле." }
+  ]},
+  { "word": "ubiquitous", "ts": "/juːˈbɪkwɪtəs/", "pos": "adjective", "ru": "вездесущий", "def": "present or existing everywhere", "level": "C2", "ex": [
+    { "en": "Smartphones are ubiquitous these days.", "ru": "Смартфоны сегодня повсюду." },
+    { "en": "Coffee shops are ubiquitous in this city.", "ru": "Кофейни есть на каждом шагу в этом городе." }
+  ]},
+  { "word": "fastidious", "ts": "/fæˈstɪdiəs/", "pos": "adjective", "ru": "привередливый, дотошный", "def": "very attentive to detail and cleanliness", "level": "C2", "ex": [
+    { "en": "He is fastidious about cleanliness.", "ru": "Он очень привередлив в вопросах чистоты." },
+    { "en": "She's fastidious about her appearance.", "ru": "Она очень требовательна к своему внешнему виду." }
+  ]},
+  { "word": "obsequious", "ts": "/əbˈsiːkwiəs/", "pos": "adjective", "ru": "подобострастный, льстивый", "def": "excessively eager to please or obey", "level": "C2", "ex": [
+    { "en": "The waiter was almost obsequious.", "ru": "Официант был почти подобострастным." },
+    { "en": "His obsequious behavior annoyed the manager.", "ru": "Его льстивое поведение раздражало менеджера." }
+  ]},
+  { "word": "pernicious", "ts": "/pərˈnɪʃəs/", "pos": "adjective", "ru": "пагубный, губительный", "def": "causing gradual but serious harm", "level": "C2", "ex": [
+    { "en": "Social media can have a pernicious effect.", "ru": "Соцсети могут оказывать пагубное влияние." },
+    { "en": "The disease had a pernicious impact on the economy.", "ru": "Болезнь оказала губительное влияние на экономику." }
+  ]},
+  { "word": "recalcitrant", "ts": "/rɪˈkælsɪtrənt/", "pos": "adjective", "ru": "непокорный, упрямый", "def": "stubbornly resistant to authority", "level": "C2", "ex": [
+    { "en": "The recalcitrant child refused to listen.", "ru": "Непослушный ребёнок отказывался слушать." },
+    { "en": "He remained recalcitrant despite warnings.", "ru": "Он оставался упрямым несмотря на предупреждения." }
+  ]},
+  { "word": "sanguine", "ts": "/ˈsæŋɡwɪn/", "pos": "adjective", "ru": "оптимистичный, жизнерадостный", "def": "optimistic in a difficult situation", "level": "C2", "ex": [
+    { "en": "She remained sanguine about the future.", "ru": "Она сохраняла оптимизм насчёт будущего." },
+    { "en": "He's sanguine despite the setbacks.", "ru": "Он настроен оптимистично, несмотря на неудачи." }
+  ]},
+  { "word": "surreptitious", "ts": "/ˌsʌrəpˈtɪʃəs/", "pos": "adjective", "ru": "тайный, скрытный", "def": "done secretly", "level": "C2", "ex": [
+    { "en": "He took a surreptitious glance at his phone.", "ru": "Он украдкой взглянул на телефон." },
+    { "en": "They had a surreptitious meeting.", "ru": "У них была тайная встреча." }
+  ]},
+  { "word": "taciturn", "ts": "/ˈtæsɪtɜːrn/", "pos": "adjective", "ru": "молчаливый, неразговорчивый", "def": "saying very little", "level": "C2", "ex": [
+    { "en": "He is a taciturn man who rarely smiles.", "ru": "Он молчаливый человек, который редко улыбается." },
+    { "en": "Her taciturn nature made her hard to know.", "ru": "Её неразговорчивость затрудняла знакомство с ней." }
+  ]},
+  { "word": "vitriolic", "ts": "/ˌvɪtriˈɒlɪk/", "pos": "adjective", "ru": "едкий, ядовитый", "def": "full of bitter criticism", "level": "C2", "ex": [
+    { "en": "The critic wrote a vitriolic review.", "ru": "Критик написал едкую рецензию." },
+    { "en": "His vitriolic comments shocked the audience.", "ru": "Его язвительные комментарии шокировали публику." }
+  ]},
+  { "word": "winsome", "ts": "/ˈwɪnsəm/", "pos": "adjective", "ru": "обаятельный, привлекательный", "def": "charming and attractive", "level": "C2", "ex": [
+    { "en": "She has a winsome smile.", "ru": "У неё обаятельная улыбка." },
+    { "en": "The child's winsome personality charmed everyone.", "ru": "Обаятельный характер ребёнка очаровал всех." }
+  ]},
+  { "word": "abrogate", "ts": "/ˈæbrəɡeɪt/", "pos": "verb", "ru": "отменять, упразднять", "def": "to formally cancel a law or agreement", "level": "C2", "ex": [
+    { "en": "The government abrogated the old treaty.", "ru": "Правительство отменило старый договор." },
+    { "en": "They abrogated their responsibilities.", "ru": "Они отказались от своих обязанностей." }
+  ]},
+  { "word": "adumbrate", "ts": "/ˈædʌmbreɪt/", "pos": "verb", "ru": "обрисовывать в общих чертах, предвещать", "def": "to describe roughly, without full detail", "level": "C2", "ex": [
+    { "en": "The report adumbrates future challenges.", "ru": "Отчёт обрисовывает будущие трудности в общих чертах." },
+    { "en": "She adumbrated her plan briefly.", "ru": "Она вкратце обрисовала свой план." }
+  ]},
+  { "word": "cavil", "ts": "/ˈkævl/", "pos": "verb", "ru": "придираться", "def": "to complain about small, unimportant things", "level": "C2", "ex": [
+    { "en": "He caviled at every small detail.", "ru": "Он придирался к каждой мелочи." },
+    { "en": "Critics caviled about minor errors.", "ru": "Критики придирались к незначительным ошибкам." }
+  ]},
+  { "word": "denigrate", "ts": "/ˈdenɪɡreɪt/", "pos": "verb", "ru": "чернить, порочить", "def": "to criticize unfairly, damaging reputation", "level": "C2", "ex": [
+    { "en": "He denigrated his rival's achievements.", "ru": "Он очернил достижения своего соперника." },
+    { "en": "She refused to denigrate her former employer.", "ru": "Она отказалась порочить своего бывшего работодателя." }
+  ]},
+  { "word": "dissemble", "ts": "/dɪˈsembl/", "pos": "verb", "ru": "притворяться, скрывать истинные чувства", "def": "to hide your true feelings or intentions", "level": "C2", "ex": [
+    { "en": "He dissembled his true feelings.", "ru": "Он скрыл свои истинные чувства." },
+    { "en": "She is not one to dissemble.", "ru": "Она не из тех, кто притворяется." }
+  ]},
+  { "word": "excoriate", "ts": "/ɪkˈskɔːrieɪt/", "pos": "verb", "ru": "резко критиковать", "def": "to criticize someone severely", "level": "C2", "ex": [
+    { "en": "The critics excoriated the new policy.", "ru": "Критики резко раскритиковали новую политику." },
+    { "en": "He was excoriated in the press.", "ru": "Его резко раскритиковали в прессе." }
+  ]},
+  { "word": "exculpate", "ts": "/ˈekskʌlpeɪt/", "pos": "verb", "ru": "оправдывать, снимать вину", "def": "to clear someone of blame", "level": "C2", "ex": [
+    { "en": "New evidence exculpated the suspect.", "ru": "Новые доказательства оправдали подозреваемого." },
+    { "en": "He tried to exculpate himself.", "ru": "Он пытался оправдать себя." }
+  ]},
+  { "word": "extirpate", "ts": "/ˈekstərpeɪt/", "pos": "verb", "ru": "искоренять, уничтожать", "def": "to destroy something completely", "level": "C2", "ex": [
+    { "en": "The campaign aims to extirpate corruption.", "ru": "Кампания направлена на искоренение коррупции." },
+    { "en": "They worked to extirpate the disease.", "ru": "Они работали над искоренением болезни." }
+  ]},
+  { "word": "inveigh", "ts": "/ɪnˈveɪ/", "pos": "verb", "ru": "резко нападать словесно, обличать", "def": "to criticize something strongly in speech", "level": "C2", "ex": [
+    { "en": "He inveighed against corruption.", "ru": "Он резко выступал против коррупции." },
+    { "en": "She inveighed against the new law.", "ru": "Она резко критиковала новый закон." }
+  ]},
+  { "word": "obfuscate", "ts": "/ˈɒbfʌskeɪt/", "pos": "verb", "ru": "запутывать, затемнять смысл", "def": "to make something confusing on purpose", "level": "C2", "ex": [
+    { "en": "The lawyer tried to obfuscate the issue.", "ru": "Адвокат пытался запутать суть дела." },
+    { "en": "His speech only obfuscated the matter further.", "ru": "Его речь ещё больше запутала вопрос." }
+  ]},
+  { "word": "obviate", "ts": "/ˈɒbvieɪt/", "pos": "verb", "ru": "устранять необходимость, предотвращать", "def": "to remove the need for something", "level": "C2", "ex": [
+    { "en": "This step obviates the need for further tests.", "ru": "Этот шаг устраняет необходимость в дальнейших тестах." },
+    { "en": "Good planning obviates many problems.", "ru": "Хорошее планирование предотвращает многие проблемы." }
+  ]},
+  { "word": "palliate", "ts": "/ˈpælieɪt/", "pos": "verb", "ru": "облегчать, смягчать (боль, симптомы)", "def": "to make symptoms less severe without curing them", "level": "C2", "ex": [
+    { "en": "The medicine palliates the symptoms.", "ru": "Лекарство облегчает симптомы." },
+    { "en": "Nothing could palliate her grief.", "ru": "Ничто не могло смягчить её горе." }
+  ]},
+  { "word": "placate", "ts": "/ˈpleɪkeɪt/", "pos": "verb", "ru": "умиротворять, успокаивать", "def": "to make someone less angry", "level": "C2", "ex": [
+    { "en": "He tried to placate the angry customer.", "ru": "Он попытался успокоить рассерженного клиента." },
+    { "en": "She placated the crowd with a calm speech.", "ru": "Она успокоила толпу спокойной речью." }
+  ]},
+  { "word": "proscribe", "ts": "/proʊˈskraɪb/", "pos": "verb", "ru": "запрещать", "def": "to forbid something officially", "level": "C2", "ex": [
+    { "en": "The law proscribes such behavior.", "ru": "Закон запрещает такое поведение." },
+    { "en": "Smoking is proscribed in this building.", "ru": "Курение запрещено в этом здании." }
+  ]},
+  { "word": "repudiate", "ts": "/rɪˈpjuːdieɪt/", "pos": "verb", "ru": "отвергать, отрекаться", "def": "to reject or deny something", "level": "C2", "ex": [
+    { "en": "He repudiated the accusations.", "ru": "Он отверг обвинения." },
+    { "en": "She repudiated her earlier statement.", "ru": "Она отреклась от своего прежнего заявления." }
+  ]},
+  { "word": "subjugate", "ts": "/ˈsʌbdʒʊɡeɪt/", "pos": "verb", "ru": "подчинять, порабощать", "def": "to bring under control by force", "level": "C2", "ex": [
+    { "en": "The empire subjugated neighboring tribes.", "ru": "Империя подчинила себе соседние племена." },
+    { "en": "He refused to be subjugated by fear.", "ru": "Он отказался быть порабощённым страхом." }
+  ]},
+  { "word": "supplant", "ts": "/səˈplænt/", "pos": "verb", "ru": "вытеснять, замещать", "def": "to replace something, especially something older", "level": "C2", "ex": [
+    { "en": "Digital media has supplanted print newspapers.", "ru": "Цифровые медиа вытеснили печатные газеты." },
+    { "en": "New technology supplanted the old system.", "ru": "Новая технология вытеснила старую систему." }
+  ]},
+  { "word": "truncate", "ts": "/ˈtrʌŋkeɪt/", "pos": "verb", "ru": "усекать, сокращать", "def": "to shorten by cutting off part", "level": "C2", "ex": [
+    { "en": "The article was truncated for space.", "ru": "Статью сократили из-за нехватки места." },
+    { "en": "The program truncates long file names.", "ru": "Программа усекает длинные имена файлов." }
+  ]},
+  { "word": "vilify", "ts": "/ˈvɪlɪfaɪ/", "pos": "verb", "ru": "чернить, поносить", "def": "to speak of someone in a very negative way", "level": "C2", "ex": [
+    { "en": "He was vilified in the media.", "ru": "Его чернили в СМИ." },
+    { "en": "She refused to vilify her opponent.", "ru": "Она отказалась поносить своего оппонента." }
+  ]},
+  { "word": "vitiate", "ts": "/ˈvɪʃieɪt/", "pos": "verb", "ru": "портить, делать недействительным", "def": "to spoil or invalidate something", "level": "C2", "ex": [
+    { "en": "The error vitiates the whole contract.", "ru": "Эта ошибка делает весь контракт недействительным." },
+    { "en": "Corruption vitiated the entire process.", "ru": "Коррупция испортила весь процесс." }
+  ]}
+]
